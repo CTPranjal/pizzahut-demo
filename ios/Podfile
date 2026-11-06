@@ -1,0 +1,17 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '15.0'
+use_frameworks!
+
+target 'pizzahutmy' do
+  pod 'CleverTap-iOS-SDK'
+  pod 'CleverTapLocation'
+  pod 'CleverTap-Geofence-SDK'
+end
+
+target 'notificationservice' do
+  pod 'CTNotificationService'
+end
+
+target 'notificationcontent' do
+  pod 'CTNotificationContent'
+end

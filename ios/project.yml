@@ -1,0 +1,131 @@
+name: pizzahutmy
+options:
+  bundleIdPrefix: com.clevertap.demo
+  deploymentTarget:
+    iOS: "15.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    # PLACEHOLDER: set your Apple Developer Team ID here before running on a device.
+    DEVELOPMENT_TEAM: ""
+    CODE_SIGN_STYLE: Automatic
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    ENABLE_USER_SCRIPT_SANDBOXING: NO
+targets:
+  pizzahutmy:
+    type: application
+    platform: iOS
+    sources:
+      - path: pizzahutmy
+        excludes:
+          - "Info.plist"
+          - "Secrets.example.plist"
+      - path: ../recs
+        buildPhase: resources
+    info:
+      path: pizzahutmy/Info.plist
+      properties:
+        CFBundleDisplayName: Pizza Hut
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        LSRequiresIPhoneOS: true
+        UILaunchScreen:
+          UIColorName: BrandRed
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        CleverTapAccountID: 489-7K5-676Z
+        CleverTapToken: 53a-cb4
+        CleverTapDisableIDFV: true
+        CFBundleURLTypes:
+          - CFBundleURLName: com.clevertap.demo.pizzahutmy
+            CFBundleURLSchemes: [pizzahutmy]
+        NSLocationAlwaysAndWhenInUseUsageDescription: Pizza Hut uses your location to show the nearest Hut and let you know about deals when you are close to one.
+        NSLocationWhenInUseUsageDescription: Pizza Hut uses your location to show the nearest Hut for delivery and takeaway.
+        NSLocationAlwaysUsageDescription: Pizza Hut uses your location to show the nearest Hut and let you know about deals when you are close to one.
+        UIBackgroundModes: [location, remote-notification, fetch, processing]
+        BGTaskSchedulerPermittedIdentifiers: [com.clevertap.demo.pizzahutmy.refresh]
+    entitlements:
+      path: pizzahutmy/pizzahutmy.entitlements
+      properties:
+        aps-environment: development
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.clevertap.demo.pizzahutmy
+        PRODUCT_NAME: pizzahutmy
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        TARGETED_DEVICE_FAMILY: "1"
+    dependencies:
+      - target: notificationservice
+      - target: notificationcontent
+  pizzahutmyuitests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources: [pizzahutmyuitests]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.clevertap.demo.pizzahutmy.uitests
+        GENERATE_INFOPLIST_FILE: YES
+        TEST_TARGET_NAME: pizzahutmy
+    dependencies:
+      - target: pizzahutmy
+  notificationservice:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: notificationservice
+        excludes: ["Info.plist"]
+    info:
+      path: notificationservice/Info.plist
+      properties:
+        CFBundleDisplayName: notificationservice
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.usernotifications.service
+          NSExtensionPrincipalClass: CTNotificationServiceExtension
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.clevertap.demo.pizzahutmy.notificationservice
+        PRODUCT_NAME: notificationservice
+        TARGETED_DEVICE_FAMILY: "1"
+  notificationcontent:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: notificationcontent
+        excludes: ["Info.plist"]
+    info:
+      path: notificationcontent/Info.plist
+      properties:
+        CFBundleDisplayName: notificationcontent
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.usernotifications.content-extension
+          NSExtensionMainStoryboard: MainInterface
+          NSExtensionAttributes:
+            UNNotificationExtensionCategory: CTNotification
+            UNNotificationExtensionInitialContentSizeRatio: 0.1
+            UNNotificationExtensionDefaultContentHidden: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.clevertap.demo.pizzahutmy.notificationcontent
+        PRODUCT_NAME: notificationcontent
+        TARGETED_DEVICE_FAMILY: "1"
+    dependencies:
+      - sdk: UserNotifications.framework
+      - sdk: UserNotificationsUI.framework
+schemes:
+  pizzahutmy:
+    build:
+      targets:
+        pizzahutmy: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets: [pizzahutmyuitests]

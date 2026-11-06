@@ -1,0 +1,2736 @@
+{
+ "currency": "MYR",
+ "brand": {
+  "logo": "img/brand/logo.png",
+  "favicon": "img/brand/favicon.png",
+  "appIcon": "img/brand/app-icon-1024.png",
+  "squareInvert": "img/brand/ph-square-invert.png",
+  "feedGoodTimes": "img/brand/feed-good-times.png",
+  "redBackground": "img/brand/red-background.jpg",
+  "placeholder": "img/brand/ph-square-invert.png"
+ },
+ "icons": {
+  "offers": "img/icons/my-offers.png",
+  "rewards": "img/icons/my-rewards.png",
+  "stores": "img/icons/stores.png",
+  "offersNav": "img/icons/offers-nav.png",
+  "rewardsNav": "img/icons/rewards-nav.png",
+  "catering": "img/icons/catering.png"
+ },
+ "banners": [
+  {
+   "id": "level-up-your-game",
+   "web": "img/banners/level-up-your-game-web.jpg",
+   "app": "img/banners/level-up-your-game-app.jpg",
+   "productId": "my-box-fanta-combo-myboxfanta"
+  },
+  {
+   "id": "hawaiian-gwp",
+   "web": "img/banners/hawaiian-gwp-web.jpg",
+   "app": "img/banners/hawaiian-gwp-app.jpg",
+   "productId": null
+  },
+  {
+   "id": "rasa-malaysia",
+   "web": "img/banners/rasa-malaysia-web.jpg",
+   "app": "img/banners/rasa-malaysia-app.jpg",
+   "productId": "mybox-rasa-malaysia-ltomerdeka1"
+  },
+  {
+   "id": "myfunbox",
+   "web": "img/banners/myfunbox-web.jpg",
+   "app": "img/banners/myfunbox-app.jpg",
+   "productId": null
+  },
+  {
+   "id": "huts-cheesy-lava",
+   "web": "img/banners/huts-cheesy-lava-web.jpg",
+   "app": "img/banners/huts-cheesy-lava-app.jpg",
+   "productId": null
+  }
+ ],
+ "categories": [
+  {
+   "id": "limited-time-offers",
+   "name": "Limited Time Offers",
+   "image": "img/categories/limited-time-offers.png"
+  },
+  {
+   "id": "group-combos",
+   "name": "Group Combos",
+   "image": "img/categories/group-combos.png"
+  },
+  {
+   "id": "personal-combos",
+   "name": "Personal Combos",
+   "image": "img/categories/personal-combos.png"
+  },
+  {
+   "id": "pizza",
+   "name": "Pizza",
+   "image": "img/categories/pizza.png"
+  },
+  {
+   "id": "pasta",
+   "name": "Pasta",
+   "image": "img/categories/pasta.png"
+  },
+  {
+   "id": "rice",
+   "name": "Rice",
+   "image": "img/categories/rice.png"
+  },
+  {
+   "id": "melts",
+   "name": "Melts",
+   "image": "img/categories/melts.png"
+  },
+  {
+   "id": "huts-sliders",
+   "name": "Hut's Sliders",
+   "image": "img/categories/huts-sliders.png"
+  },
+  {
+   "id": "wingstreet",
+   "name": "WingStreet",
+   "image": "img/categories/wingstreet.png"
+  },
+  {
+   "id": "sides",
+   "name": "Sides",
+   "image": "img/categories/sides.png"
+  },
+  {
+   "id": "beverages",
+   "name": "Beverages",
+   "image": "img/categories/beverages.png"
+  }
+ ],
+ "products": [
+  {
+   "id": "my-box-fanta-combo-myboxfanta",
+   "name": "MyBox Fanta Combo",
+   "description": "",
+   "price": 16.99,
+   "category": "limited-time-offers",
+   "subcategory": "Promotion",
+   "image": "img/products/my-box-fanta-combo-myboxfanta.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/RnGmbciGE-MyBox-Fanta_Price_1200x600.png"
+  },
+  {
+   "id": "2-x-my-heart-box-with-free-v-sticker-phrt24d",
+   "name": "2 X MyHeart Box With Free V Sticker",
+   "description": "",
+   "price": 37.8,
+   "category": "limited-time-offers",
+   "subcategory": "Personal Combos",
+   "image": "img/products/2-x-my-heart-box-with-free-v-sticker-phrt24d.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/3S9hhDzay-CZS26_MY_BTS_V_PizzaHut_Hawaiian_GWP_1200x600px_FA-promo-menu-card.jpg"
+  },
+  {
+   "id": "2nd-pizza-6-90-ltomerdeka5",
+   "name": "2nd Pizza @ 6.90",
+   "description": "",
+   "price": 42.89,
+   "category": "limited-time-offers",
+   "subcategory": "Merdeka LTO",
+   "image": "img/products/2nd-pizza-6-90-ltomerdeka5.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/qqUvrAjiJ-2nd-Pizza-6.90.jpg"
+  },
+  {
+   "id": "mybox-rasa-malaysia-ltomerdeka1",
+   "name": "Mybox Rasa Malaysia",
+   "description": "",
+   "price": 19.99,
+   "category": "limited-time-offers",
+   "subcategory": "Merdeka LTO",
+   "image": "img/products/mybox-rasa-malaysia-ltomerdeka1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/zx1iOXiwb-Laksa-Kari-and-Durian-Brulee_Promo-Menu-Card-1200x600-10.jpg"
+  },
+  {
+   "id": "webox-2-rasa-malaysia-ltomerdeka2",
+   "name": "Webox 2 Rasa Malaysia",
+   "description": "",
+   "price": 42.99,
+   "category": "limited-time-offers",
+   "subcategory": "Merdeka LTO",
+   "image": "img/products/webox-2-rasa-malaysia-ltomerdeka2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/v1OYDHqYA-Webox-2Laksa-Kari-and-Durian-Brulee_Promo-Menu-Card-1200x600-11.jpg"
+  },
+  {
+   "id": "webox-4-rasa-malaysia-ltomerdeka3",
+   "name": "Webox 4 Rasa Malaysia",
+   "description": "",
+   "price": 62.99,
+   "category": "limited-time-offers",
+   "subcategory": "Merdeka LTO",
+   "image": "img/products/webox-4-rasa-malaysia-ltomerdeka3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/ILwIydgVn-webox4-Laksa-Kari-and-Durian-Brulee_Promo-Menu-Card-1200x600-12.jpg"
+  },
+  {
+   "id": "webox-6-rasa-malaysia-ltomerdeka4",
+   "name": "Webox 6 Rasa Malaysia",
+   "description": "",
+   "price": 82.99,
+   "category": "limited-time-offers",
+   "subcategory": "Merdeka LTO",
+   "image": "img/products/webox-6-rasa-malaysia-ltomerdeka4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/DMQ1Xszfc-webox-6Laksa-Kari-and-Durian-Brulee_Promo-Menu-Card-1200x600-13.jpg"
+  },
+  {
+   "id": "app-special-mybox-rasa-malaysia-rasamysia1",
+   "name": "App Special Mybox Rasa Malaysia",
+   "description": "",
+   "price": 16.99,
+   "category": "limited-time-offers",
+   "subcategory": "Merdeka LTO",
+   "image": "img/products/app-special-mybox-rasa-malaysia-rasamysia1.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/RpbvNGn2e-MyBox-Rasa-Malaysia.jpeg"
+  },
+  {
+   "id": "app-special-webox-4-rasa-malaysia-rasamysia2",
+   "name": "App Special Webox 4 Rasa Malaysia",
+   "description": "",
+   "price": 56.99,
+   "category": "limited-time-offers",
+   "subcategory": "Merdeka LTO",
+   "image": "img/products/app-special-webox-4-rasa-malaysia-rasamysia2.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/3lehAZpT6-Webox-4-Rasa-Malaysia.jpg"
+  },
+  {
+   "id": "mybox-melts-mybmeltsmon",
+   "name": "Mybox Melts",
+   "description": "1 Melts + 1 Side + 1 Drink",
+   "price": 13.99,
+   "category": "limited-time-offers",
+   "subcategory": "App-Only Deals",
+   "image": "img/products/mybox-melts-mybmeltsmon.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/5kGlbw_jV-Gemini_Generated_Image_fr6mk1fr6mk1fr6m-(1).png"
+  },
+  {
+   "id": "2-regular-pizzas-for-rm-22-appdeal3",
+   "name": "2 Regular Pizzas For RM22",
+   "description": "Now with the NEW Sourdough crust!",
+   "price": 22.0,
+   "category": "limited-time-offers",
+   "subcategory": "App-Only Deals",
+   "image": "img/products/2-regular-pizzas-for-rm-22-appdeal3.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Bey2F0UGc-Only-App-Promo-01.jpg"
+  },
+  {
+   "id": "mybox-pasta-mybpastawed",
+   "name": "Mybox Pasta",
+   "description": "App Exclusive Deal - 55% off MyBox Pasta",
+   "price": 13.99,
+   "category": "limited-time-offers",
+   "subcategory": "App-Only Deals",
+   "image": "img/products/mybox-pasta-mybpastawed.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/-ACza3vgn-Gemini_Generated_Image_5epcap5epcap5epc-(1).png"
+  },
+  {
+   "id": "mybox-baked-rice-mybrice1thu",
+   "name": "Mybox Baked Rice",
+   "description": "1 Baked Rice + 1 Side + 1 Drink",
+   "price": 13.99,
+   "category": "limited-time-offers",
+   "subcategory": "App-Only Deals",
+   "image": "img/products/mybox-baked-rice-mybrice1thu.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Wxh0xBvzW-appdeal_thurs.png"
+  },
+  {
+   "id": "webox-4-app-clusive-appdeal6",
+   "name": "WEBOX 4 APP-CLUSIVE",
+   "description": "2 Regular Pizzas + 8 Sides. Now with the NEW Sourdough crust!",
+   "price": 50.99,
+   "category": "limited-time-offers",
+   "subcategory": "App-Only Deals",
+   "image": "img/products/webox-4-app-clusive-appdeal6.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/ezY4TgyOD-Only-App-Promo-02.jpg"
+  },
+  {
+   "id": "mybox-bichi-mao-combo-bichimybsleeve",
+   "name": "Mybox Bichi Mao Combo",
+   "description": "",
+   "price": 19.99,
+   "category": "limited-time-offers",
+   "subcategory": "Promotion",
+   "image": "img/products/mybox-bichi-mao-combo-bichimybsleeve.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Kn_06IL3p-Bichi-Mao-Digital-Assets_FCDS-MENU-CARD-MYBOX-19.99.png"
+  },
+  {
+   "id": "2-mybox-free-sticker-bichimyb",
+   "name": "2 Mybox Free Sticker",
+   "description": "",
+   "price": 33.98,
+   "category": "limited-time-offers",
+   "subcategory": "Promotion",
+   "image": "img/products/2-mybox-free-sticker-bichimyb.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/PeWPoe_6E-Bichi-Mao-Digital-Assets_FCDS-MENU-CARD-MYBOX-33.98.png"
+  },
+  {
+   "id": "huts-sliders-bichi-mao-combo-bichislidsleeve",
+   "name": "Hut's Sliders Bichi Mao Combo",
+   "description": "",
+   "price": 19.99,
+   "category": "limited-time-offers",
+   "subcategory": "Promotion",
+   "image": "img/products/huts-sliders-bichi-mao-combo-bichislidsleeve.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Gp6wr8mTh-Bichi-Mao-Digital-Assets_FCDS-MENU-CARD-Sliders-19.99.png"
+  },
+  {
+   "id": "2-huts-sliders-free-sticker-bichislid",
+   "name": "2 Hut's Sliders Free Sticker",
+   "description": "",
+   "price": 33.98,
+   "category": "limited-time-offers",
+   "subcategory": "Promotion",
+   "image": "img/products/2-huts-sliders-free-sticker-bichislid.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/9aZRN15hG-Bichi-Mao-Digital-Assets_FCDS-MENU-CARD-Sliders-33.98.png"
+  },
+  {
+   "id": "snackbox-crunch-sbox4",
+   "name": "Snackbox Crunch",
+   "description": "All in one box- from tea time to chill session. 4 Signature Crispy Sides + 1 Hut's Dipper Sauce",
+   "price": 28.99,
+   "category": "group-combos",
+   "subcategory": "SnackBox",
+   "image": "img/products/snackbox-crunch-sbox4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/iHl1rgFdh-1200X600_SNACKBOX-CRUNCH.jpg"
+  },
+  {
+   "id": "snackbox-campur-legend-sbox5",
+   "name": "Snackbox Campur Legend",
+   "description": "A legendary mix of savory snacks in one box. perfect for sharing and enjoying a variety of flavors!",
+   "price": 38.99,
+   "category": "group-combos",
+   "subcategory": "SnackBox",
+   "image": "img/products/snackbox-campur-legend-sbox5.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/aOOJXG2yF-1200X600_SNACKBOX-CAMPUR-LEGEND.jpg"
+  },
+  {
+   "id": "snackbox-ayam-attack-sbox6",
+   "name": "Snackbox Ayam Attack",
+   "description": "All in one box- from tea time to chill session. 4 Signature Chicken Sides + 1 Hut's Dipper Sauce",
+   "price": 45.99,
+   "category": "group-combos",
+   "subcategory": "SnackBox",
+   "image": "img/products/snackbox-ayam-attack-sbox6.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/CPooRST8b-1200X600_SNACKBOX-AYAM-ATTACK.jpg"
+  },
+  {
+   "id": "the-looooooooong-party-box-pzlong1",
+   "name": "The Looooooooong Party Box",
+   "description": "The ultimate party pack. Packed with pizzas to feed the whole party of 10.",
+   "price": 99.0,
+   "category": "group-combos",
+   "subcategory": "Long Party Box",
+   "image": "img/products/the-looooooooong-party-box-pzlong1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/tvIjoLfMK-Gemini_Generated_Image_po43tupo43tupo43-(1)-(1).png"
+  },
+  {
+   "id": "the-looooooooong-party-box-free-coke-pzlong6",
+   "name": "The Looooooooong Party Box Free Coke",
+   "description": "",
+   "price": 99.0,
+   "category": "group-combos",
+   "subcategory": "Long Party Box",
+   "image": "img/products/the-looooooooong-party-box-free-coke-pzlong6.jpg",
+   "appOnly": true,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Q4pebGgyk-Add-On-Menu-Card-LPB.jpg.jpeg"
+  },
+  {
+   "id": "we-box-pizza-2-wboxpz1",
+   "name": "WeBox Pizza 2",
+   "description": "1 Pizza + 5 Sides",
+   "price": 36.99,
+   "category": "group-combos",
+   "subcategory": "WeBox",
+   "image": "img/products/we-box-pizza-2-wboxpz1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/zFhmXn5mE-wboxpz1.jpg"
+  },
+  {
+   "id": "webox-pasta-2-wboxps1",
+   "name": "Webox Pasta 2",
+   "description": "2 Pasta & 5 Sides",
+   "price": 36.99,
+   "category": "group-combos",
+   "subcategory": "WeBox",
+   "image": "img/products/webox-pasta-2-wboxps1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/uBCixL90z-Webox-Pasta-01.jpg.jpeg"
+  },
+  {
+   "id": "we-box-pizza-4-wboxpz2",
+   "name": "WeBox Pizza 4",
+   "description": "2 Pizzas + 8 Sides",
+   "price": 56.99,
+   "category": "group-combos",
+   "subcategory": "WeBox",
+   "image": "img/products/we-box-pizza-4-wboxpz2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Tj3MQbsw5-wboxpz2.jpg"
+  },
+  {
+   "id": "webox-pasta-4-wboxps2",
+   "name": "Webox Pasta 4",
+   "description": "2 Pastas + 1 Pizza + 8 Sides",
+   "price": 56.99,
+   "category": "group-combos",
+   "subcategory": "WeBox",
+   "image": "img/products/webox-pasta-4-wboxps2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Ph-LnKspd-Webox-Pasta-02.jpg.jpeg"
+  },
+  {
+   "id": "we-box-pizza-6-wboxpz3",
+   "name": "WeBox Pizza 6",
+   "description": "3 Pizzas + 12 Sides",
+   "price": 76.99,
+   "category": "group-combos",
+   "subcategory": "WeBox",
+   "image": "img/products/we-box-pizza-6-wboxpz3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/qL4swBlGa-webox6pizza.png"
+  },
+  {
+   "id": "we-box-pasta-6-wboxps3",
+   "name": "WeBox Pasta 6",
+   "description": "2 Pastas + 2 Pizzas + 12 Sides",
+   "price": 76.99,
+   "category": "group-combos",
+   "subcategory": "WeBox",
+   "image": "img/products/we-box-pasta-6-wboxps3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/-6hDOm3Hw-Webox-Pasta-03.jpg.jpeg"
+  },
+  {
+   "id": "pizza-pasta-half-price-deal-halfdeal3",
+   "name": "Pizza & Pasta Half Price Deal",
+   "description": "1 Regular Pizza + 1 Pasta + 3 Drinks",
+   "price": 31.99,
+   "category": "group-combos",
+   "subcategory": "Half Price Deal",
+   "image": "img/products/pizza-pasta-half-price-deal-halfdeal3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Ty91S0FqM-HALF-PRICE-1-PIZZA-PASTA.jpg"
+  },
+  {
+   "id": "2-pizzas-half-price-deal-halfdeal1",
+   "name": "2 Pizzas Half Price Deal",
+   "description": "2 Regular + 3 Drinks",
+   "price": 36.99,
+   "category": "group-combos",
+   "subcategory": "Half Price Deal",
+   "image": "img/products/2-pizzas-half-price-deal-halfdeal1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/CXh8x01CD-HALF-PRICE-2-PIZZA.jpg"
+  },
+  {
+   "id": "3-pizzas-half-price-deal-halfdeal4",
+   "name": "3 Pizzas Half Price Deal",
+   "description": "3 Regular Pizzas + 2 Soups + 2 Drinks",
+   "price": 59.99,
+   "category": "group-combos",
+   "subcategory": "Half Price Deal",
+   "image": "img/products/3-pizzas-half-price-deal-halfdeal4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/oT163DxXX-HALF-PRICE-3-PIZZA.jpg"
+  },
+  {
+   "id": "pizza-melts-half-price-deal-halfdeal2",
+   "name": "Pizza & Melts Half Price Deal",
+   "description": "1 Regular Pizza + 1 Melts + 3 Drinks",
+   "price": 31.99,
+   "category": "group-combos",
+   "subcategory": "Half Price Deal",
+   "image": "img/products/pizza-melts-half-price-deal-halfdeal2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/1O6BLrd8x-HALF-PRICE-1-PIZZA-MELTS.jpg"
+  },
+  {
+   "id": "2-pizzas-pasta-half-price-deal-halfdeal6",
+   "name": "2 Pizzas & Pasta Half Price Deal",
+   "description": "2 Regular Pizzas + 1 Pasta + 2 Soups + 2 Drinks",
+   "price": 52.99,
+   "category": "group-combos",
+   "subcategory": "Half Price Deal",
+   "image": "img/products/2-pizzas-pasta-half-price-deal-halfdeal6.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Rrq8ugTjy-HALF-PRICE-2-PIZZA-PASTA.jpg"
+  },
+  {
+   "id": "2-pizza-melts-half-price-deal-halfdeal5",
+   "name": "2 Pizza & Melts Half Price Deal",
+   "description": "2 Regular Pizzas + 1 Melt + 2 Soups + 2 Drinks",
+   "price": 52.99,
+   "category": "group-combos",
+   "subcategory": "Half Price Deal",
+   "image": "img/products/2-pizza-melts-half-price-deal-halfdeal5.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/2lmvH7Th1-HALF-PRICE-PIZZA-MELTS.jpg"
+  },
+  {
+   "id": "2-pizzas-deal-rasa-malaysia-ltomerdeka6",
+   "name": "2 Pizzas Deal Rasa Malaysia",
+   "description": "",
+   "price": 36.89,
+   "category": "group-combos",
+   "subcategory": "Pizza-Only Deals Group",
+   "image": "img/products/2-pizzas-deal-rasa-malaysia-ltomerdeka6.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/mWbKEyoDQ-2-Pizza-Deal_WebApp-promo-image-2-pizza-deal.jpg"
+  },
+  {
+   "id": "3-reg-pizzas-deal-regpzdeal2",
+   "name": "3 Reg Pizzas Deal",
+   "description": "3 Reg Pizzas Deal",
+   "price": 39.99,
+   "category": "group-combos",
+   "subcategory": "Pizza-Only Deals Group",
+   "image": "img/products/3-reg-pizzas-deal-regpzdeal2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/spplHYNoD-AFJBl5-hz-3pizzadeal-(1).png"
+  },
+  {
+   "id": "2-large-pizza-deal-dbox7",
+   "name": "2 Large Pizza Deal",
+   "description": "",
+   "price": 58.99,
+   "category": "group-combos",
+   "subcategory": "Pizza-Only Deals Group",
+   "image": "img/products/2-large-pizza-deal-dbox7.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/8AK37CmXp-doublebox.png"
+  },
+  {
+   "id": "fun-5-combo-2-wcc2",
+   "name": "Fun 5 Combo 2",
+   "description": "A value-packed combo featuring five delicious favorites - perfect for sharing, mixing flavors, and enjoying more in every bite!",
+   "price": 15.0,
+   "category": "group-combos",
+   "subcategory": "Pizza-Only Deals Group",
+   "image": "img/products/fun-5-combo-2-wcc2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Fp7_g8CLu-Combo-2-Banner-_2_1.png"
+  },
+  {
+   "id": "fun-5-combo-3-wcc3",
+   "name": "Fun 5 Combo 3",
+   "description": "A value-packed combo featuring a delicious mix of favorites, specially curated for a fun and satisfying meal experience.",
+   "price": 25.0,
+   "category": "group-combos",
+   "subcategory": "Pizza-Only Deals Group",
+   "image": "img/products/fun-5-combo-3-wcc3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/puPnjlTm_-Combo-3-Banner-_2_1.png"
+  },
+  {
+   "id": "fun-5-large-15-fun5f9",
+   "name": "FUN 5 LARGE 15",
+   "description": "A large Pan Fun 5 Pizza loaded with five delicious flavors. perfect for sharing and enjoying a variety in every bite!",
+   "price": 19.1,
+   "category": "group-combos",
+   "subcategory": "Pizza-Only Deals Group",
+   "image": "img/products/fun-5-large-15-fun5f9.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/bnYkn7xg3-Fun-5-Flavours-RM19_10.png"
+  },
+  {
+   "id": "fun-5-regular-10-fun5f8",
+   "name": "FUN 5 REGULAR 10",
+   "description": "A regular Pan Fun 5 Pizza with five tasty flavors - perfect for enjoying variety in every slice!",
+   "price": 12.7,
+   "category": "group-combos",
+   "subcategory": "Pizza-Only Deals Group",
+   "image": "img/products/fun-5-regular-10-fun5f8.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/joFjHPEdo-fun5_12.70.png"
+  },
+  {
+   "id": "hut-celebration-1-bigcelbdeal1",
+   "name": "Hut Celebration 1",
+   "description": "5 Regular Pizzas + 5 Soups + 2 Sides + 2 Tasty Chicken Bites. Perfect for your holiday party!",
+   "price": 119.0,
+   "category": "group-combos",
+   "subcategory": "Hut's Celebration",
+   "image": "img/products/hut-celebration-1-bigcelbdeal1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/IaUfoVWkC-new-size_CELEBRATION-DEAL-1.jpg"
+  },
+  {
+   "id": "hut-celebration-2-bigcelbdeal2",
+   "name": "Hut Celebration 2",
+   "description": "7 Regular Pizzas + 4 Sides + 3 Bottled Drinks. Weekend gathering, settle dengan kombo ni!",
+   "price": 149.0,
+   "category": "group-combos",
+   "subcategory": "Hut's Celebration",
+   "image": "img/products/hut-celebration-2-bigcelbdeal2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/y-fgCnHqE-new-size_CELEBRATION-DEAL-2.jpg"
+  },
+  {
+   "id": "2-huts-sliders-at-rm-9-99-each-hslider4",
+   "name": "2 Hut's Sliders at RM9.99 Each",
+   "description": "Mini, flavor-packed sliders at just 9.99 each - perfect for a quick bite or mixing and matching your favorites!",
+   "price": 19.98,
+   "category": "personal-combos",
+   "subcategory": "Hut's Sliders Deals",
+   "image": "img/products/2-huts-sliders-at-rm-9-99-each-hslider4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Z4DJg8faj-Gemini_Generated_Image_dpxwp2dpxwp2dpxw-(1).png"
+  },
+  {
+   "id": "huts-sliders-combo-hslider2",
+   "name": "Hut's Sliders Combo",
+   "description": "1 Hut's Sliders + 1 Sides + 1 Drink",
+   "price": 16.99,
+   "category": "personal-combos",
+   "subcategory": "Hut's Sliders Deals",
+   "image": "img/products/huts-sliders-combo-hslider2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/ZRqEUGsed-1200X600_slider-combo.jpg"
+  },
+  {
+   "id": "hari-hari-rm-8-lsc1",
+   "name": "Hari Hari RM8",
+   "description": "Customise Your Mains & Sides. Only available for Dine-In & Take-Away",
+   "price": 8.0,
+   "category": "personal-combos",
+   "subcategory": "Hari-Hari RM8",
+   "image": "img/products/hari-hari-rm-8-lsc1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/mJ5kcvOth-ezgif-263f4f8bf0a48765.gif"
+  },
+  {
+   "id": "myfun-box-pizza-myfunpz",
+   "name": "Myfun Box Pizza",
+   "description": "Curated specially for kids. 1 pizza + 1 side + 1 drink + Pizza Origami Sleeve",
+   "price": 12.99,
+   "category": "personal-combos",
+   "subcategory": "MyFunBox",
+   "image": "img/products/myfun-box-pizza-myfunpz.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/_1HCiHBsu-1200X600_myfunbox-pizza.jpg"
+  },
+  {
+   "id": "myfun-box-pasta-myfunps",
+   "name": "Myfun Box Pasta",
+   "description": "Curated specially for kids. 1 pasta + 1 side + 1 drink + Pizza Origami Sleeve",
+   "price": 15.99,
+   "category": "personal-combos",
+   "subcategory": "MyFunBox",
+   "image": "img/products/myfun-box-pasta-myfunps.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/mNy1KM_2U-1200X600_myfunbox-mels-copy.jpg"
+  },
+  {
+   "id": "myfun-box-melts-myfunml",
+   "name": "Myfun Box Melts",
+   "description": "Curated specially for kids. 1 Melts (1piece) + 1 side + 1 drink + Pizza Origami Sleeve",
+   "price": 12.99,
+   "category": "personal-combos",
+   "subcategory": "MyFunBox",
+   "image": "img/products/myfun-box-melts-myfunml.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/UeSgiVkT4-1200X600_myfunbox-mels.jpg"
+  },
+  {
+   "id": "fun-5-personal-5-fun5f2",
+   "name": "FUN 5 PERSONAL 5",
+   "description": "",
+   "price": 5.3,
+   "category": "personal-combos",
+   "subcategory": "Pizza-Only Deals Personal",
+   "image": "img/products/fun-5-personal-5-fun5f2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/dixR9CBAj-vrMmss5XV-Fun-5-Flavours-RM5_30.png"
+  },
+  {
+   "id": "mybox-of-the-day-mybtheday",
+   "name": "Mybox Of The Day",
+   "description": "1 Personal Pizza + 1 Sides + 1 Drink",
+   "price": 12.99,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-of-the-day-mybtheday.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Tfwtrj90P-new-size.jpg.jpeg"
+  },
+  {
+   "id": "mybox-saver-myb1side",
+   "name": "Mybox Saver",
+   "description": "A value-packed combo with a mix of your favorites. perfect for saving more while enjoying more!",
+   "price": 10.99,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-saver-myb1side.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/vhSKwK1-J-myb1side.jpg"
+  },
+  {
+   "id": "mybox-pizza-mybox",
+   "name": "Mybox Pizza",
+   "description": "1 Personal Favorite Pizza + 1 Side + 1 Drink\nComplete Personal Meal Just For You!",
+   "price": 16.99,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-pizza-mybox.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/okhPjh5AB-MYBOX.jpg"
+  },
+  {
+   "id": "mybox-pasta-mybpasta",
+   "name": "Mybox Pasta",
+   "description": "1 Pasta + 1 Side + 1 Drink + **Special Add On Chocolate Lava Cake",
+   "price": 16.99,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-pasta-mybpasta.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/r4fUCvwCB-1200X600_MYBOX-PASTA.jpg"
+  },
+  {
+   "id": "mybox-baked-rice-mybrice1",
+   "name": "Mybox Baked Rice",
+   "description": "NEW! Mybox with 1 Baked Rice OR Cheese Tarik Baked Rice + 1 Side + 1 Drink",
+   "price": 16.99,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-baked-rice-mybrice1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/3RqwqJ9s2-1200X600_MYBOX-BAKED-RICE.jpg"
+  },
+  {
+   "id": "mybox-melts-burger-mybmeltsbg",
+   "name": "Mybox Melts Burger",
+   "description": "1 Melts Burger + 1 Side + 1 Drink",
+   "price": 19.99,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-melts-burger-mybmeltsbg.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/oC5RCxkRZ-Add-On-Menu-Card_FCDS-Combo-Image-674x240-3.jpg.jpeg"
+  },
+  {
+   "id": "mybox-pizza-duo-mybduo",
+   "name": "Mybox Pizza Duo",
+   "description": "(1 Personal Favorite Pizza + 1 Side + 1 Drink) X 2",
+   "price": 30.0,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-pizza-duo-mybduo.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/NEyaYqgow-mybduo.jpg"
+  },
+  {
+   "id": "mybox-wings-mybwing",
+   "name": "Mybox Wings",
+   "description": "6pcs Krispy Wings + 1 Side + 1 Drink",
+   "price": 26.99,
+   "category": "personal-combos",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-wings-mybwing.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/k3c0F0PvI-KN-936b1i-WhatsApp-Image-2026-04-21-at-3.32.47-PM.png"
+  },
+  {
+   "id": "durian-brulee-pizza-lt10",
+   "name": "Durian Brulee Pizza",
+   "description": "",
+   "price": 17.59,
+   "category": "pizza",
+   "subcategory": "Rasa Malaysia Pizza",
+   "image": "img/products/durian-brulee-pizza-lt10.jpg",
+   "appOnly": false,
+   "pizzaTier": "rasa",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/inOD-cPj2-Durian-Brulee_Ala-Carte-600x600-copy.jpg"
+  },
+  {
+   "id": "laksa-kari-pizza-lt9",
+   "name": "Laksa Kari Pizza",
+   "description": "",
+   "price": 17.59,
+   "category": "pizza",
+   "subcategory": "Rasa Malaysia Pizza",
+   "image": "img/products/laksa-kari-pizza-lt9.jpg",
+   "appOnly": false,
+   "pizzaTier": "rasa",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/QZf8W-TFX-Laksa-Kari-_Ala-Carte-600x600.jpg"
+  },
+  {
+   "id": "huts-signature-golden-shrimp-hs3",
+   "name": "Huts Signature Golden Shrimp",
+   "description": "Plump golden shrimp for a satisfying seafood-loaded experience.",
+   "price": 19.58,
+   "category": "pizza",
+   "subcategory": "Hut's Signature",
+   "image": "img/products/huts-signature-golden-shrimp-hs3.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/nP0ARjg-Q-APP-BYOD-Ala-Carte-Image-Golden-Shrimp-800x800.jpg"
+  },
+  {
+   "id": "huts-signature-triple-chicken-hs1",
+   "name": "Huts Signature Triple Chicken",
+   "description": "Chunky grilled chicken for a rich triple-protein indulgence.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Hut's Signature",
+   "image": "img/products/huts-signature-triple-chicken-hs1.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/3tEHH8eqx-APP-BYOD-Ala-Carte-Image-Triple-Chicken​-800x800.jpg"
+  },
+  {
+   "id": "huts-signature-meat-mania-hs2",
+   "name": "Huts Signature Meat Mania",
+   "description": "Savory meat mix for a bold, full-on meat feast.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Hut's Signature",
+   "image": "img/products/huts-signature-meat-mania-hs2.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/CWv8_Yf62-APP-BYOD-Ala-Carte-Image-Meat-Mania-800x800.jpg"
+  },
+  {
+   "id": "smoky-chicken-fc",
+   "name": "Smoky Chicken",
+   "description": "With BBQ sauce, shredded chicken, mozzarella cheese & drizzled with nachos cheese sauce",
+   "price": 13.59,
+   "category": "pizza",
+   "subcategory": "Fun 5 Pizza",
+   "image": "img/products/smoky-chicken-fc.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/EU7rTPp2P-smoky_chicken_fun5.png"
+  },
+  {
+   "id": "tangy-tuna-ft",
+   "name": "Tangy Tuna",
+   "description": "With thousand island sauce, tuna, mozzarella cheese & drizzled with nachos cheese sauce",
+   "price": 13.59,
+   "category": "pizza",
+   "subcategory": "Fun 5 Pizza",
+   "image": "img/products/tangy-tuna-ft.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/53J8Gwx1h-tangy_tuna_fun5.png"
+  },
+  {
+   "id": "sweet-n-sour-mushroom-fm",
+   "name": "Sweet N Sour Mushroom",
+   "description": "With tomato sauce, mushrooms, pineapples, mozzarella cheese & drizzled with nachos cheese sauce",
+   "price": 13.59,
+   "category": "pizza",
+   "subcategory": "Fun 5 Pizza",
+   "image": "img/products/sweet-n-sour-mushroom-fm.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/HRFmVKjm_-sweet_sour_mushroom_fun5.png"
+  },
+  {
+   "id": "spicy-sausage-fs",
+   "name": "Spicy Sausage",
+   "description": "With asam pedas sauce, chicken salami, mozzarella cheese & drizzled with nachos cheese sauce",
+   "price": 13.59,
+   "category": "pizza",
+   "subcategory": "Fun 5 Pizza",
+   "image": "img/products/spicy-sausage-fs.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/ZVE-LFl_P-spicy_sausage_fun5.png"
+  },
+  {
+   "id": "garlic-butter-chicken-pepperoni-fp",
+   "name": "Garlic Butter Chicken Pepperoni",
+   "description": "With garlic spread, chicken pepperoni, mozzarella cheese & drizzled with nachos cheese sauce",
+   "price": 13.59,
+   "category": "pizza",
+   "subcategory": "Fun 5 Pizza",
+   "image": "img/products/garlic-butter-chicken-pepperoni-fp.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/eJDJQGz9i-garlic_butter_pepperoni_fun5.png"
+  },
+  {
+   "id": "super-supreme-q2",
+   "name": "Super Supreme",
+   "description": "With tomato sauce, ground beef, beef pepperoni, beef cabanossi, chicken loaf, mushrooms, pineapples, capsicums, olives, mozzarella cheese.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/super-supreme-q2.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Jqi2MvQOF-super_supreme_new_sq.png"
+  },
+  {
+   "id": "island-supreme-q6",
+   "name": "Island Supreme",
+   "description": "With thousand island sauce, crabsticks, tuna, pineapples, onions, mozzarella cheese.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/island-supreme-q6.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/1qUd4AaIY-desktop_thumbnail_323eb05b-0eb6-469a-a28a-6c8b835ee9bb.png"
+  },
+  {
+   "id": "triple-chicken-q4",
+   "name": "Triple Chicken",
+   "description": "With thousand island sauce, chicken rolls, chicken meat, chicken salami, mushrooms, tomatoes, onions, mozzarella cheese.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/triple-chicken-q4.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/c98KEnsZ2-desktop_thumbnail_9640598e-92b3-4bdd-85f3-6d3c8f54ebb0.png"
+  },
+  {
+   "id": "hawaiian-supreme-q5",
+   "name": "Hawaiian Supreme",
+   "description": "With tomato sauce, chicken meat, chicken loaf, pineapples, mozzarella cheese.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/hawaiian-supreme-q5.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/9tnA2m267-desktop_thumbnail_19422534-5ec0-4663-a684-dfeaa1565142.png"
+  },
+  {
+   "id": "cheeseburger-chicken-cb1",
+   "name": "Cheeseburger Chicken",
+   "description": "Cheeseburger flavours with chicken meat, roasted onions, tomatoes. Topped with special cheese sauce & mozzarella cheese.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/cheeseburger-chicken-cb1.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/VT62P8FhK-desktop_thumbnail_a4270045-bbd6-4747-80a4-dfd0dbfc7a31-(1).png"
+  },
+  {
+   "id": "cheeseburger-beef-cb2",
+   "name": "Cheeseburger Beef",
+   "description": "Cheeseburger flavours with ground beef, roasted onions, tomatoes. Topped with special cheese sauce & mozzarella cheese.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/cheeseburger-beef-cb2.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Cg_ZcUH-X-desktop_thumbnail_c903720e-4e3e-4dfc-adf3-eafea69f79a2.png"
+  },
+  {
+   "id": "blazing-seafood-q1",
+   "name": "Blazing Seafood",
+   "description": "With spicy sweet sour sauce, tuna, crabsticks, pineapples, capsicums, onions, mozzarella cheese.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/blazing-seafood-q1.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/in_fl7lmU-desktop_thumbnail_ef9d7a8e-1594-4453-a1f2-6ff103ab383a.png"
+  },
+  {
+   "id": "meat-mania-p9",
+   "name": "Meat Mania",
+   "description": "Beef pepperoni, grounded beef, chicken salami, shredded chicken on tomato based sauce.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/meat-mania-p9.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/B1FJBo3S9-desktop_thumbnail_b823b92a-bf3b-49c3-8eab-5bac89511d61.png"
+  },
+  {
+   "id": "chicken-supreme-q3",
+   "name": "Chicken Supreme",
+   "description": "With tomato sauce, chicken meat, chicken salami, chicken loaf, mushrooms, capsicums, onions, mozzarella cheese, tomatoes.",
+   "price": 17.58,
+   "category": "pizza",
+   "subcategory": "Supreme Pizza",
+   "image": "img/products/chicken-supreme-q3.jpg",
+   "appOnly": false,
+   "pizzaTier": "supreme",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/JTk-vq-ls-desktop_thumbnail_4ce7a27a-20cc-4f67-b147-27f119ce68c4.png"
+  },
+  {
+   "id": "aloha-chicken-a5",
+   "name": "Aloha Chicken",
+   "description": "With thousand island sauce, chicken rolls, chicken salami, pineapples, mozzarella cheese.",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/aloha-chicken-a5.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/EYMjZT84x-Aloha_Chicken.png"
+  },
+  {
+   "id": "beef-pepperoni-bp",
+   "name": "Beef Pepperoni",
+   "description": "A delicious pizza topped with savory beef pepperoni on a freshly baked crust.",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/beef-pepperoni-bp.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/7yt1p3-ft-beefpep.png"
+  },
+  {
+   "id": "chicken-pepperoni-cp",
+   "name": "Chicken Pepperoni",
+   "description": "With tomato sauce, chicken pepperoni, mozzarella cheese.",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/chicken-pepperoni-cp.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/U90ClPDZU-desktop_thumbnail_f2a2c30e-e242-4d36-a21e-19a5894451f7.png"
+  },
+  {
+   "id": "chicken-sensation-cn",
+   "name": "Chicken Sensation",
+   "description": "With spicy sweet sour sauce, chicken meat, pineapples, onions, mozzarella cheese",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/chicken-sensation-cn.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/mNRvbl_s7-Chicken_Sensation.png"
+  },
+  {
+   "id": "chicken-delight-cd",
+   "name": "Chicken Delight",
+   "description": "A delicious pizza topped with flavorful chicken on a freshly baked crust.",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/chicken-delight-cd.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/xHaki_xFC-Chicken_Delight.png"
+  },
+  {
+   "id": "deluxe-cheese-dc",
+   "name": "Deluxe Cheese",
+   "description": "With tomato sauce, mozzarella cheese.",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/deluxe-cheese-dc.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/TNQQ3qdyb-Deluxe_Cheese.png"
+  },
+  {
+   "id": "hawaiian-chicken-hc",
+   "name": "Hawaiian Chicken",
+   "description": "With tomato sauce, chicken meat, pineapples, mozzarella cheese.",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/hawaiian-chicken-hc.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Rgo5ta97p-Hawaiian_Chicken.png"
+  },
+  {
+   "id": "hot-cheesy-chicken-p7",
+   "name": "Hot Cheesy Chicken",
+   "description": "With Asam Pedas sauce, shredded chicken, tomatoes, pineapples, mushrooms, onion, capsicum and mozzarella cheese, drizzled with Nacho Cheese Sauce.",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/hot-cheesy-chicken-p7.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/vMypeG6bA-Hot_Cheesy_Chicken.png"
+  },
+  {
+   "id": "island-tuna-s8",
+   "name": "Island Tuna",
+   "description": "With thousand island sauce, tuna, pineapples, onions, mozzarella cheese",
+   "price": 14.59,
+   "category": "pizza",
+   "subcategory": "Favourite Pizza",
+   "image": "img/products/island-tuna-s8.jpg",
+   "appOnly": false,
+   "pizzaTier": "favourite",
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/2WTPm336N-Island_Tuna.png"
+  },
+  {
+   "id": "laksa-kari-pasta-paslaksa",
+   "name": "Laksa Kari Pasta",
+   "description": "",
+   "price": 17.59,
+   "category": "pasta",
+   "subcategory": "Rasa Malaysia Pasta",
+   "image": "img/products/laksa-kari-pasta-paslaksa.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/VLydqbliC-Laksa-Kari-and-Durian-Brulee_Ala-Carte-600x600-copy-3.jpg"
+  },
+  {
+   "id": "aglio-olio-spaghetti-pastagliot",
+   "name": "Aglio Olio Spaghetti",
+   "description": "Spaghetti tossed in olive oil, herbs, mushrooms and capsicums. Slightly spicy with a dash of chilli flakes.",
+   "price": 15.59,
+   "category": "pasta",
+   "subcategory": "Favourite Pasta",
+   "image": "img/products/aglio-olio-spaghetti-pastagliot.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/tVIzEtXbH-aglio_olio.png"
+  },
+  {
+   "id": "classic-tomato-spaghetti-pastatomt",
+   "name": "Classic Tomato Spaghetti",
+   "description": "Spaghetti with Tomato Bolognaise sauce and shredded chicken .",
+   "price": 15.59,
+   "category": "pasta",
+   "subcategory": "Favourite Pasta",
+   "image": "img/products/classic-tomato-spaghetti-pastatomt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/EFshOPLeZ-classic_tomato.png"
+  },
+  {
+   "id": "chicken-pepperoni-spaghetti-pastacpt",
+   "name": "Chicken Pepperoni Spaghetti",
+   "description": "Spaghetti with Creamy Carbonara sauce and Chicken Pepperoni.",
+   "price": 15.59,
+   "category": "pasta",
+   "subcategory": "Favourite Pasta",
+   "image": "img/products/chicken-pepperoni-spaghetti-pastacpt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/vzMOFq_vw-chicken_pepperoni.png"
+  },
+  {
+   "id": "creamy-tom-yum-tuna-spaghetti-pastytn",
+   "name": "Creamy Tom Yum Tuna Spaghetti",
+   "description": "Spaghetti with Tom Yum sauce and Tuna.",
+   "price": 15.59,
+   "category": "pasta",
+   "subcategory": "Favourite Pasta",
+   "image": "img/products/creamy-tom-yum-tuna-spaghetti-pastytn.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/x6d_OyX9K-creamy_tom_yum.png"
+  },
+  {
+   "id": "mac-cheese-pasmact",
+   "name": "Mac & Cheese",
+   "description": "Creamy macaroni pasta tossed in rich and cheesy sauce for a comforting classic.",
+   "price": 16.59,
+   "category": "pasta",
+   "subcategory": "Favourite Pasta",
+   "image": "img/products/mac-cheese-pasmact.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Mq5FbfMAf-mac_n_cheese.png"
+  },
+  {
+   "id": "cheesy-tom-yum-seafood-spaghetti-paschetys",
+   "name": "Cheesy Tom Yum Seafood Spaghetti",
+   "description": "Spaghetti with Tom Yum sauce, topped with Krispy Prawn served with Cheese sauce.",
+   "price": 21.59,
+   "category": "pasta",
+   "subcategory": "Cheesy Pasta",
+   "image": "img/products/cheesy-tom-yum-seafood-spaghetti-paschetys.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/FZA7PXVgz-cheesytomyum-(2).png"
+  },
+  {
+   "id": "cheesy-chicken-meatball-bolognaise-spaghetti-paschebol1",
+   "name": "Cheesy Chicken Meatball Bolognaise Spaghetti",
+   "description": "Spaghetti with Tomato Bolognaise sauce, topped with Chicken Meatballs served with Cheese Sauce.",
+   "price": 19.59,
+   "category": "pasta",
+   "subcategory": "Cheesy Pasta",
+   "image": "img/products/cheesy-chicken-meatball-bolognaise-spaghetti-paschebol1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/lu0gHOWmG-cheesychickenmeatball.png"
+  },
+  {
+   "id": "cheesy-salami-olio-spaghetti-paschesal",
+   "name": "Cheesy Salami Olio Spaghetti",
+   "description": "Spaghetti tossed in olive oil, chicken salami and capsicums. Slightly spicy with a dash of chilli flakes served with Cheese Sauce",
+   "price": 19.59,
+   "category": "pasta",
+   "subcategory": "Cheesy Pasta",
+   "image": "img/products/cheesy-salami-olio-spaghetti-paschesal.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/6FbGhEb6W-cheesysalamiolio.png"
+  },
+  {
+   "id": "cheesy-chicken-carbonara-spaghetti-paschecar",
+   "name": "Cheesy Chicken Carbonara Spaghetti",
+   "description": "Spaghetti with Creamy Carbonara sauce, chicken rolls, mushrooms and herbs served with Cheese Sauce",
+   "price": 19.59,
+   "category": "pasta",
+   "subcategory": "Cheesy Pasta",
+   "image": "img/products/cheesy-chicken-carbonara-spaghetti-paschecar.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/zTTrYT_w0-cheesycarbonara-(2).png"
+  },
+  {
+   "id": "creamy-chicken-carbonara-spaghetti-car",
+   "name": "Creamy Chicken Carbonara Spaghetti",
+   "description": "Spaghetti with Creamy Carbonara sauce, chicken rolls, mushrooms and herbs.",
+   "price": 10.5,
+   "category": "pasta",
+   "subcategory": "Supreme Pasta",
+   "image": "img/products/creamy-chicken-carbonara-spaghetti-car.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/LBzZtNXp2-creamycarbonara.png"
+  },
+  {
+   "id": "salami-olio-spaghetti-pastasalt",
+   "name": "Salami Olio Spaghetti",
+   "description": "Spaghetti tossed in olive oil, chicken salami and capsicums. Slightly spicy with a dash of chilli flakes.",
+   "price": 17.59,
+   "category": "pasta",
+   "subcategory": "Supreme Pasta",
+   "image": "img/products/salami-olio-spaghetti-pastasalt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/U8IRXROe8-salamiolio.png"
+  },
+  {
+   "id": "prawn-olio-spaghetti-pos",
+   "name": "Prawn Olio Spaghetti",
+   "description": "Spaghetti tossed in garlic oil, a dash of chili flakes, roasted onions & red capsicums topped with Krispy Prawn.",
+   "price": 17.59,
+   "category": "pasta",
+   "subcategory": "Supreme Pasta",
+   "image": "img/products/prawn-olio-spaghetti-pos.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/C4LHWQdcs-prawnolio.png"
+  },
+  {
+   "id": "asam-pedas-spaghetti-pastasp",
+   "name": "Asam Pedas Spaghetti",
+   "description": "Spaghetti with Asam Pedas sauce, chicken pepperoni, capsicums, mushroom, herbs and a dash of chili flakes.",
+   "price": 17.59,
+   "category": "pasta",
+   "subcategory": "Supreme Pasta",
+   "image": "img/products/asam-pedas-spaghetti-pastasp.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/sTUHZmafy-asampedasspaghetti.png"
+  },
+  {
+   "id": "chicken-salami-mac-cheese-pasmacslt",
+   "name": "Chicken Salami Mac & Cheese",
+   "description": "Macaroni with creamy cheese sauce, chicken salami & mushrooms.",
+   "price": 18.59,
+   "category": "pasta",
+   "subcategory": "Supreme Pasta",
+   "image": "img/products/chicken-salami-mac-cheese-pasmacslt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/cszFt5_jA-chickensalamimacncheese.png"
+  },
+  {
+   "id": "chicken-bolognaise-spaghetti-bol",
+   "name": "Chicken Bolognaise Spaghetti",
+   "description": "Spaghetti with Tomato Bolognaise sauce, topped with Chicken Meatballs.",
+   "price": 9.5,
+   "category": "pasta",
+   "subcategory": "Supreme Pasta",
+   "image": "img/products/chicken-bolognaise-spaghetti-bol.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/HXCs2tgZ6-chickenbolognaise.png"
+  },
+  {
+   "id": "creamy-tom-yum-chicken-salami-mac-cheese-pastymc",
+   "name": "Creamy Tom Yum Chicken Salami Mac & Cheese",
+   "description": "Macaroni with Tom Yum sauce, chicken salami & mushrooms",
+   "price": 18.59,
+   "category": "pasta",
+   "subcategory": "Supreme Pasta",
+   "image": "img/products/creamy-tom-yum-chicken-salami-mac-cheese-pastymc.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/uvZR-BJDy-creamtomyumchickenmacncheese.png"
+  },
+  {
+   "id": "baked-rice-curry-chicken-ricesp2",
+   "name": "Baked Rice Curry Chicken",
+   "description": "Fragrant baked rice topped with tender curry chicken in a rich and flavorful sauce.",
+   "price": 17.59,
+   "category": "rice",
+   "subcategory": "Favourite Baked Rice",
+   "image": "img/products/baked-rice-curry-chicken-ricesp2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/al2MnBSHV-Baked-Rice-Curry-Chicken.jpg"
+  },
+  {
+   "id": "baked-rice-creamy-chicken-ricesp1",
+   "name": "Baked Rice Creamy Chicken",
+   "description": "Smooth and satisfying. Tender chicken with creamy white sauce over pilaf rice, baked for comforting indulgence.",
+   "price": 17.59,
+   "category": "rice",
+   "subcategory": "Favourite Baked Rice",
+   "image": "img/products/baked-rice-creamy-chicken-ricesp1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/m8A-9tNOw-bakedricecreamychicken.png"
+  },
+  {
+   "id": "cheese-tarik-baked-rice-classic-tomato-chicken-ricech1",
+   "name": "Cheese Tarik Baked Rice Classic Tomato Chicken",
+   "description": "A homestyle favourite with juicy chicken, fluffy pilaf rice, and rich tomato sauce. Topped with golden tarik cheese for that perfect cheesy pull",
+   "price": 19.59,
+   "category": "rice",
+   "subcategory": "Cheese Baked Rice",
+   "image": "img/products/cheese-tarik-baked-rice-classic-tomato-chicken-ricech1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/VbswTZY51-cheesetomatochicken.png"
+  },
+  {
+   "id": "cheese-tarik-baked-rice-creamy-chicken-ricech3",
+   "name": "Cheese Tarik Baked Rice Creamy Chicken",
+   "description": "Comfort food at its best. Tender chicken and pilaf rice layered with creamy white sauce, smothered in tarik cheese that’s extra cheesy and satisfying.",
+   "price": 19.59,
+   "category": "rice",
+   "subcategory": "Cheese Baked Rice",
+   "image": "img/products/cheese-tarik-baked-rice-creamy-chicken-ricech3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/880RyAze--cheesecreamychicken.png"
+  },
+  {
+   "id": "cheese-tarik-baked-rice-curry-chicken-ricech4",
+   "name": "Cheese Tarik Baked Rice Curry Chicken",
+   "description": "Fragrant curry chicken paired with pilaf rice and stretchy tarik cheese, baked to perfection for a bold, saucy, and cheesy flavour explosion.",
+   "price": 19.59,
+   "category": "rice",
+   "subcategory": "Cheese Baked Rice",
+   "image": "img/products/cheese-tarik-baked-rice-curry-chicken-ricech4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/0v6kj4grp-Cheese-Tarik-Baked-Rice-Curry-Chicken.jpg"
+  },
+  {
+   "id": "cheese-tarik-baked-rice-tom-yum-seafood-ricech2",
+   "name": "Cheese Tarik Baked Rice Tom Yum Seafood",
+   "description": "A zesty twist with seafood in bold tom yum sauce, baked with fluffy pilaf rice and gooey tarik cheese. Tangy, cheesy goodness!",
+   "price": 19.59,
+   "category": "rice",
+   "subcategory": "Cheese Baked Rice",
+   "image": "img/products/cheese-tarik-baked-rice-tom-yum-seafood-ricech2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/6MpkZ5c81-cheesetomyumseafood.png"
+  },
+  {
+   "id": "baked-rice-classic-tomato-chicken-riceff1",
+   "name": "Baked Rice Classic Tomato Chicken",
+   "description": "A timeless favourite. Aromatic pilaf rice topped with tender chicken and a rich tomato sauce for a hearty, saucy meal.",
+   "price": 15.59,
+   "category": "rice",
+   "subcategory": "Baked Rice",
+   "image": "img/products/baked-rice-classic-tomato-chicken-riceff1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/fSjdMJCe4-bakedriceclassictomato.png"
+  },
+  {
+   "id": "baked-rice-tom-yum-seafood-riceff2",
+   "name": "Baked Rice Tom Yum Seafood",
+   "description": "A tangy twist. Seafood and fluffy pilaf rice baked with bold tom yum sauce for that zesty kick.",
+   "price": 15.59,
+   "category": "rice",
+   "subcategory": "Baked Rice",
+   "image": "img/products/baked-rice-tom-yum-seafood-riceff2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/epSCGuykF-bakedricetomyum.png"
+  },
+  {
+   "id": "durian-melts-m26",
+   "name": "Durian Melts",
+   "description": "",
+   "price": 9.3,
+   "category": "melts",
+   "subcategory": "Rasa Malaysia Melts",
+   "image": "img/products/durian-melts-m26.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/B7EjBoxtC-Durian-Melts-Laksa-Kari-and-Durian-Brulee_Ala-Carte-600x600-copy-4.jpg"
+  },
+  {
+   "id": "laksa-kari-melts-m25",
+   "name": "Laksa Kari Melts",
+   "description": "",
+   "price": 9.3,
+   "category": "melts",
+   "subcategory": "Rasa Malaysia Melts",
+   "image": "img/products/laksa-kari-melts-m25.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/l-MidWdVZ-Laksa-Kari-and-Durian-Brulee_Ala-Carte-600x600-copy-2.jpg"
+  },
+  {
+   "id": "mybox-melts-mybmelts",
+   "name": "Mybox Melts",
+   "description": "1 Melts + 1 Side + 1 Drink",
+   "price": 16.99,
+   "category": "melts",
+   "subcategory": "MyBox",
+   "image": "img/products/mybox-melts-mybmelts.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/fcwbLofYT-zt-OTHqOA-1200X600_MYBOX-MELTS.png"
+  },
+  {
+   "id": "aloha-lover-m4",
+   "name": "Aloha Lover",
+   "description": "Crunchy wrap loaded with Thousand Island sauce, shredded chicken, chicken roll strips, pineapple, mozzarella cheese & nacho cheese, finished with garlic spread.",
+   "price": 8.3,
+   "category": "melts",
+   "subcategory": "Melts Favourite",
+   "image": "img/products/aloha-lover-m4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/qJN1nqafw-Melt-3-1x1.png"
+  },
+  {
+   "id": "bbq-chicken-m5",
+   "name": "Bbq Chicken",
+   "description": "Crunchy wrap loaded with BBQ sauce, shredded chicken, chicken roll strips, roasted onions, mozzarella cheese & nacho cheese, finished with garlic spread.",
+   "price": 8.3,
+   "category": "melts",
+   "subcategory": "Melts Favourite",
+   "image": "img/products/bbq-chicken-m5.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Ya3i4CHPH-Melt-4-1x1.png"
+  },
+  {
+   "id": "shroom-delight-m7",
+   "name": "Shroom Delight",
+   "description": "Crunchy wrap loaded with tomato sauce, mushroom, red capsicum, roasted onions, mozzarella cheese & nacho cheese, finished with garlic spread.",
+   "price": 8.3,
+   "category": "melts",
+   "subcategory": "Melts Favourite",
+   "image": "img/products/shroom-delight-m7.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/_OPrqKr3j-Melt-5-1x1.png"
+  },
+  {
+   "id": "chicken-mania-m2",
+   "name": "Chicken Mania",
+   "description": "Crunchy wrap loaded with Triple chicken goodness (chicken pepperoni, chicken roll strips & chicken salami), mozzarella cheese & nacho cheese, finished with garlic spread.",
+   "price": 8.3,
+   "category": "melts",
+   "subcategory": "Melts Favourite",
+   "image": "img/products/chicken-mania-m2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/dMQc9zIzF-Melt-1-1x1.png"
+  },
+  {
+   "id": "surfs-up-m3",
+   "name": "Surfs Up",
+   "description": "Crunchy wrap loaded with Thousand Island sauce, tuna, crabmeat, pineapple, roasted onions, mozzarella cheese & nacho cheese, finished with garlic spread.",
+   "price": 8.3,
+   "category": "melts",
+   "subcategory": "Melts Favourite",
+   "image": "img/products/surfs-up-m3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/y6HTHRrvl-Melt-2-1x1.png"
+  },
+  {
+   "id": "bolognaise-chicken-m10",
+   "name": "Bolognaise Chicken",
+   "description": "Crunchy wrap loaded with Bolognaise sauce, chicken meatballs, shredded chicken, roasted onions, mushrooms, topped with mozzarella cheese & nacho cheese, finished with garlic spread.",
+   "price": 9.3,
+   "category": "melts",
+   "subcategory": "Melts Supreme",
+   "image": "img/products/bolognaise-chicken-m10.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/KvclJZw2f-Quesadilla-1-1x1.png"
+  },
+  {
+   "id": "tom-yum-seafood-m11",
+   "name": "Tom Yum Seafood",
+   "description": "Crunchy wrap loaded with Tom Yum sauce, tuna, crab meat, roasted onions, mushrooms, topped with mozzarella cheese & nacho cheese sauce, finished with garlic spread.",
+   "price": 9.3,
+   "category": "melts",
+   "subcategory": "Melts Supreme",
+   "image": "img/products/tom-yum-seafood-m11.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/ZCoZRXH9o-Quesadilla-3-1x1.png"
+  },
+  {
+   "id": "tom-yum-chicken-m12",
+   "name": "Tom Yum Chicken",
+   "description": "Crunchy wrap loaded with Tom Yum sauce, shredded chicken, roasted onions, mushrooms, topped with mozzarella cheese & nacho cheese sauce, finished with garlic spread.",
+   "price": 9.3,
+   "category": "melts",
+   "subcategory": "Melts Supreme",
+   "image": "img/products/tom-yum-chicken-m12.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/MoWOcra-a-Quesadilla-4-1x1.png"
+  },
+  {
+   "id": "bolognaise-beef-m9",
+   "name": "Bolognaise Beef",
+   "description": "Crunchy wrap loaded with Bolognaise sauce, beef meatballs, ground beef, roasted onions, mushrooms, topped with mozzarella cheese & nacho cheese, finished with garlic spread.",
+   "price": 9.3,
+   "category": "melts",
+   "subcategory": "Melts Supreme",
+   "image": "img/products/bolognaise-beef-m9.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/ESVhf4Rjn-Quesadilla-2-1x1.png"
+  },
+  {
+   "id": "burger-chicken-double-m15",
+   "name": "Burger Chicken Double",
+   "description": "Crunchy wrap loaded with juicy Chicken Patty, roasted onions, tomatoes and pickles, topped with special cheese sauce & mozzarella cheese, finished with garlic spread.",
+   "price": 24.59,
+   "category": "melts",
+   "subcategory": "Melts Burger",
+   "image": "img/products/burger-chicken-double-m15.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Unw7TKZim-Quesadilla-4-_1_1.png"
+  },
+  {
+   "id": "burger-beef-double-m16",
+   "name": "Burger Beef Double",
+   "description": "Crunchy wrap loaded with juicy Double Beef Patties, roasted onions, tomatoes and pickles, topped with special cheese sauce & mozzarella cheese, finished with garlic spread.",
+   "price": 26.59,
+   "category": "melts",
+   "subcategory": "Melts Burger",
+   "image": "img/products/burger-beef-double-m16.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/LK1uT5jMZ-Quesadilla-3-_1_1.png"
+  },
+  {
+   "id": "burger-beef-m14",
+   "name": "Burger Beef",
+   "description": "Crunchy wrap loaded with juicy Beef Patty, roasted onions, tomatoes and pickles, topped with special cheese sauce & mozzarella cheese, finished with garlic spread.",
+   "price": 9.99,
+   "category": "melts",
+   "subcategory": "Melts Burger",
+   "image": "img/products/burger-beef-m14.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/9YIi7Dkqq-Quesadilla-2-_1_1.png"
+  },
+  {
+   "id": "burger-chicken-m13",
+   "name": "Burger Chicken",
+   "description": "Crunchy wrap loaded with juicy Chicken Patty, roasted onions, tomatoes and pickles, topped with special cheese sauce & mozzarella cheese, finished with garlic spread.",
+   "price": 9.99,
+   "category": "melts",
+   "subcategory": "Melts Burger",
+   "image": "img/products/burger-chicken-m13.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/uDDh5UXlu-Quesadilla-1-_1_1.png"
+  },
+  {
+   "id": "lemongrass-chilli-seafood-sl6",
+   "name": "Lemongrass Chilli Seafood",
+   "description": "Pizza, but in new format - Hut's Sliders, flavour at every bite! Excite your tastebud with the loaded seafood, roasted onions, topped with nacho cheese sauce and mozzarella cheese",
+   "price": 11.99,
+   "category": "huts-sliders",
+   "subcategory": "Hut's Signature Sliders",
+   "image": "img/products/lemongrass-chilli-seafood-sl6.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/zNMtdKgjZ-lemongrasschili_sliders.png"
+  },
+  {
+   "id": "cream-of-mushroom-soup-sl5",
+   "name": "Cream Of Mushroom Soup",
+   "description": "Pizza, but in new format - Hut's Sliders, and this mushroom soup - not in a bowl! Feel the warmth and comfort with the rich sliced mushroom topped with nacho cheese sauce and mozzarella cheese.",
+   "price": 11.99,
+   "category": "huts-sliders",
+   "subcategory": "Hut's Signature Sliders",
+   "image": "img/products/cream-of-mushroom-soup-sl5.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/CoHCD0MYo-desktop_thumbnail_c91581ea-548c-442e-8712-928ab3f91ab7.png"
+  },
+  {
+   "id": "cheeseburger-beef-sl4",
+   "name": "Cheeseburger Beef",
+   "description": "Hut's Sliders, flavour at every bite! Loaded with juicy beef patty, roasted onions, tomatoes and pickles, topped with mozzarella cheese",
+   "price": 11.99,
+   "category": "huts-sliders",
+   "subcategory": "Hut's Signature Sliders",
+   "image": "img/products/cheeseburger-beef-sl4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/oLJPZ6l8R-cheeseburgerbeef_sliders.png"
+  },
+  {
+   "id": "cheeseburger-chicken-sl3",
+   "name": "Cheeseburger Chicken",
+   "description": "Pizza, but in new format - Hut's Sliders, flavour at every bite! Loaded with juicy chicken patty, roasted onions, tomatoes and pickles, topped with mozzarella cheese",
+   "price": 11.99,
+   "category": "huts-sliders",
+   "subcategory": "Hut's Signature Sliders",
+   "image": "img/products/cheeseburger-chicken-sl3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/N9JcVVw_8-cheeseburgerchickensliders.png"
+  },
+  {
+   "id": "meatball-bolognaise-chicken-sl1",
+   "name": "Meatball Bolognaise Chicken",
+   "description": "Pizza, but in new format - Hut's Sliders, flavour at every bite! Who says meatball only comes with spaghetti? Enjoy the juicy chicken meatball, topped with roasted onions, mozzarella cheese and nacho cheese sauce",
+   "price": 11.99,
+   "category": "huts-sliders",
+   "subcategory": "Hut's Signature Sliders",
+   "image": "img/products/meatball-bolognaise-chicken-sl1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/OWLJrXDXh-meatball_bolognaise_sliders.png"
+  },
+  {
+   "id": "roasted-wings-deli-wing-rwt2",
+   "name": "Roasted Wings Deli Wing",
+   "description": "Chicken wing marinated in aromatic spices and smoked to perfection.",
+   "price": 12.99,
+   "category": "wingstreet",
+   "subcategory": "Roasted Wingstreets",
+   "image": "img/products/roasted-wings-deli-wing-rwt2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Z968g1jgP-Wing-Street-Wings-1-_1_1.png"
+  },
+  {
+   "id": "roasted-wings-new-orleans-rwt1",
+   "name": "Roasted Wings New Orleans",
+   "description": "Oven-roasted drumettes in New Orlean’s style marinade.",
+   "price": 10.95,
+   "category": "wingstreet",
+   "subcategory": "Roasted Wingstreets",
+   "image": "img/products/roasted-wings-new-orleans-rwt1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/3pKoLsY9T-Wing-Street-Wings-2-_1_1.png"
+  },
+  {
+   "id": "wingstreet-sampler-taws1",
+   "name": "Wingstreet Sampler",
+   "description": "3 Signature Krispy Wings flavours. 4pcs Original + 4pcs BBQ + 4pcs Nacho Cheese Wingettes and Drumettes + 1 Crispy Fries or Potato Wedges + 1 Breadstix set",
+   "price": 48.99,
+   "category": "wingstreet",
+   "subcategory": "Group Promos",
+   "image": "img/products/wingstreet-sampler-taws1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/PcPj4v-VA-WhatsApp-Image-2026-04-21-at-3.32.47-PM-(1).jpg"
+  },
+  {
+   "id": "wingstreet-party-for-2-taws2",
+   "name": "Wingstreet Party For 2",
+   "description": "12pcs Wingettes & Drumettes + 1 Crispy Fries or Potato Wedges + 1.5L Coke",
+   "price": 52.99,
+   "category": "wingstreet",
+   "subcategory": "Group Promos",
+   "image": "img/products/wingstreet-party-for-2-taws2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/t_eHtOICn-wingstreet-party-for-2.jpeg"
+  },
+  {
+   "id": "wingstreet-party-for-4-taws4",
+   "name": "Wingstreet Party For 4",
+   "description": "12pcs Wingettes & Drumettes + 2 Breadstix set + 4 Creamy Mushroom Soups",
+   "price": 58.99,
+   "category": "wingstreet",
+   "subcategory": "Group Promos",
+   "image": "img/products/wingstreet-party-for-4-taws4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/aGfiBUkKP-WingstreetSampler_4.png"
+  },
+  {
+   "id": "krispy-wings-bbq-kwt2",
+   "name": "Krispy Wings Bbq",
+   "description": "Juicy original golden crispy wings tossed with barbeque sauce served to perfection.",
+   "price": 12.45,
+   "category": "wingstreet",
+   "subcategory": "Krispy Wingstreets",
+   "image": "img/products/krispy-wings-bbq-kwt2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/bOdehNIwy-WingStreet-BBQ-_-1_1.png"
+  },
+  {
+   "id": "krispy-wings-nacho-cheese-kwt3",
+   "name": "Krispy Wings Nacho Cheese",
+   "description": "Juicy original golden crispy wings tossed with nacho cheese sauce served to perfection.",
+   "price": 12.45,
+   "category": "wingstreet",
+   "subcategory": "Krispy Wingstreets",
+   "image": "img/products/krispy-wings-nacho-cheese-kwt3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/VuMZcbFzc-WingStreet-Cheese-_-1_1.png"
+  },
+  {
+   "id": "krispy-wings-original-kwt1",
+   "name": "Krispy Wings Original",
+   "description": "Juicy original golden crispy wings served to perfection with light crunchiness bite.",
+   "price": 11.45,
+   "category": "wingstreet",
+   "subcategory": "Krispy Wingstreets",
+   "image": "img/products/krispy-wings-original-kwt1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/3Wllb1F_4-WingStreet-Classic-_-1_1.png"
+  },
+  {
+   "id": "huts-cheezy-lava-deal-3-hclav2",
+   "name": "Huts Cheezy Lava Deal 3",
+   "description": "",
+   "price": 13.99,
+   "category": "sides",
+   "subcategory": "Hut's Cheesy Lava Deals",
+   "image": "img/products/huts-cheezy-lava-deal-3-hclav2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/OvuATWkjb-cheesylavaldeal_3.png"
+  },
+  {
+   "id": "huts-cheezy-lava-deal-2-hclav1",
+   "name": "Huts Cheezy Lava Deal 2",
+   "description": "",
+   "price": 9.99,
+   "category": "sides",
+   "subcategory": "Hut's Cheesy Lava Deals",
+   "image": "img/products/huts-cheezy-lava-deal-2-hclav1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/V7qUt5i_o-cheesylavaldeal_2.png"
+  },
+  {
+   "id": "cream-of-mushroom-soup-sop",
+   "name": "Cream Of Mushroom Soup",
+   "description": "A bowl of rich mushroom soup.",
+   "price": 5.49,
+   "category": "sides",
+   "subcategory": "Hut's Signature Sides",
+   "image": "img/products/cream-of-mushroom-soup-sop.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/eGApxJ3-G-Square-Soup.png"
+  },
+  {
+   "id": "garlic-bread-gab",
+   "name": "Garlic Bread",
+   "description": "Oven-fresh garlic bread sprinkled with sesame seeds.",
+   "price": 7.99,
+   "category": "sides",
+   "subcategory": "Hut's Signature Sides",
+   "image": "img/products/garlic-bread-gab.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/fkmgH9DRi-Square-Bread.png"
+  },
+  {
+   "id": "huts-cheesy-lava-chicken-pepperoni-bites-clav3",
+   "name": "Hut's Cheesy Lava Chicken Pepperoni Bites",
+   "description": "",
+   "price": 5.99,
+   "category": "sides",
+   "subcategory": "Hut's Cheesy Lava Bites",
+   "image": "img/products/huts-cheesy-lava-chicken-pepperoni-bites-clav3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/mGZLhMRDc-hutscheesylava_chickenbites.png"
+  },
+  {
+   "id": "huts-cheesy-lava-triple-cheese-bites-clav1",
+   "name": "Hut's Cheesy Lava Triple Cheese Bites",
+   "description": "",
+   "price": 5.99,
+   "category": "sides",
+   "subcategory": "Hut's Cheesy Lava Bites",
+   "image": "img/products/huts-cheesy-lava-triple-cheese-bites-clav1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/xHLD9YmvR-hutscheesylava_triplecheese.png"
+  },
+  {
+   "id": "huts-cheesy-lava-creamy-mushroom-chicken-bites-clav2",
+   "name": "Hut's Cheesy Lava Creamy Mushroom Chicken Bites",
+   "description": "",
+   "price": 5.99,
+   "category": "sides",
+   "subcategory": "Hut's Cheesy Lava Bites",
+   "image": "img/products/huts-cheesy-lava-creamy-mushroom-chicken-bites-clav2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/9JNZ_ss97-hutscheesylava_mushroom.png"
+  },
+  {
+   "id": "huts-poppers-chicken-bites-gaijor",
+   "name": "Hut's Poppers Chicken Bites",
+   "description": "Pan fried chicken rolls wrapped in a crispy bean curd skin.",
+   "price": 10.0,
+   "category": "sides",
+   "subcategory": "Hut's Poppers",
+   "image": "img/products/huts-poppers-chicken-bites-gaijor.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/NzDUj275L-Chicken-Bites-_-1_1.png"
+  },
+  {
+   "id": "huts-poppers-sausage-sosejbt",
+   "name": "Hut's Poppers Sausage",
+   "description": "Crunchy pan-fried chicken salami wrapped in fresh dough for the perfect savoury bite.",
+   "price": 9.99,
+   "category": "sides",
+   "subcategory": "Hut's Poppers",
+   "image": "img/products/huts-poppers-sausage-sosejbt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/7KBb6HABq-Sausage-Rolls-_-1_1.png"
+  },
+  {
+   "id": "huts-poppers-cheezy-chepopt",
+   "name": "Hut's Poppers Cheezy",
+   "description": "Crispy golden poppers stuffed with gooey melted cheese for a delicious cheesy bite.",
+   "price": 11.9,
+   "category": "sides",
+   "subcategory": "Hut's Poppers",
+   "image": "img/products/huts-poppers-cheezy-chepopt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/eF_dkvON2-Cheese-Bites-_-1_1.png"
+  },
+  {
+   "id": "huts-poppers-hash-bites-hashbt",
+   "name": "Hut's Poppers Hash Bites",
+   "description": "Golden fried tater tots",
+   "price": 4.0,
+   "category": "sides",
+   "subcategory": "Hut's Poppers",
+   "image": "img/products/huts-poppers-hash-bites-hashbt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/tbZPnETuE-Sides-SKU_750x750-01.jpg"
+  },
+  {
+   "id": "huts-moist-chocolate-cake-chomoist",
+   "name": "Hut's Moist Chocolate Cake",
+   "description": "A rich and moist chocolate cake layered with smooth chocolate frosting for a perfectly indulgent dessert.",
+   "price": 8.99,
+   "category": "sides",
+   "subcategory": "Hut Lava",
+   "image": "img/products/huts-moist-chocolate-cake-chomoist.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/cPDpnhwKI-Brownie-Slice-_-1_1.png"
+  },
+  {
+   "id": "huts-lava-chocolate-cake-lav2",
+   "name": "Hut's Lava Chocolate Cake",
+   "description": "A fluffy classic lava cake, molten chocolate",
+   "price": 11.99,
+   "category": "sides",
+   "subcategory": "Hut Lava",
+   "image": "img/products/huts-lava-chocolate-cake-lav2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/l15tekguV-Chocolate-Lava-Cake-_-1_1.png"
+  },
+  {
+   "id": "huts-breadstix-mozzarella-bstixmz",
+   "name": "Hut's Breadstix Mozzarella",
+   "description": "Breadstix with mozzarella cheese",
+   "price": 4.0,
+   "category": "sides",
+   "subcategory": "Hut's Breadstix",
+   "image": "img/products/huts-breadstix-mozzarella-bstixmz.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/K-WoWazbl-Cheesy-Bread-_-1_1.png"
+  },
+  {
+   "id": "krispy-fries-crispy",
+   "name": "Krispy Fries",
+   "description": "Golden fried potato fries.",
+   "price": 3.99,
+   "category": "sides",
+   "subcategory": "Krispy Bites",
+   "image": "img/products/krispy-fries-crispy.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/29wob5ZBm-Sides-SKU_750x750-05.jpg"
+  },
+  {
+   "id": "krispy-curly-fries-curlyfr",
+   "name": "Krispy Curly Fries",
+   "description": "Golden fried curly potato fries",
+   "price": 4.5,
+   "category": "sides",
+   "subcategory": "Krispy Bites",
+   "image": "img/products/krispy-curly-fries-curlyfr.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/lTXNAGoC0-Sides-SKU_750x750-02.jpg"
+  },
+  {
+   "id": "krispy-prawn-prwn1",
+   "name": "Krispy Prawn",
+   "description": "Golden fried prawn fried to perfection",
+   "price": 12.99,
+   "category": "sides",
+   "subcategory": "Krispy Bites",
+   "image": "img/products/krispy-prawn-prwn1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/mDI-fyq89-Sides-SKU_750x750-04.jpg"
+  },
+  {
+   "id": "krispy-chicken-fries-ckfrt",
+   "name": "Krispy Chicken Fries",
+   "description": "Chicken Fries",
+   "price": 10.99,
+   "category": "sides",
+   "subcategory": "Krispy Bites",
+   "image": "img/products/krispy-chicken-fries-ckfrt.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/M5e3UVh08-Sides-SKU_750x750-03.jpg"
+  },
+  {
+   "id": "dip-crunch-classic-dipcrunch1",
+   "name": "Dip & Crunch Classic",
+   "description": "",
+   "price": 5.99,
+   "category": "sides",
+   "subcategory": "",
+   "image": "img/products/dip-crunch-classic-dipcrunch1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/84QZf3ODx-Dip-_-Crunch-Cheese-_-1_1.png"
+  },
+  {
+   "id": "dip-crunch-hot-dipcrunch2",
+   "name": "Dip & Crunch Hot",
+   "description": "Turn up the heat with Dip & Crunch Hot! Crispy, golden bites paired with a fiery dipping sauce for that bold, spicy kick you crave",
+   "price": 5.99,
+   "category": "sides",
+   "subcategory": "",
+   "image": "img/products/dip-crunch-hot-dipcrunch2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/xHH6S1FAm-Dip-_-Crunch-BBQ-_-1_1.png"
+  },
+  {
+   "id": "mamamia-meatball-chicken-mamamia1",
+   "name": "Mamamia Meatball (CHICKEN)",
+   "description": "Chicken meatballs with chunky tomato sauce and mozzarella cheese",
+   "price": 17.99,
+   "category": "sides",
+   "subcategory": "",
+   "image": "img/products/mamamia-meatball-chicken-mamamia1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/xHR31Brlb-Mozzarella-Marinara-_-1_1.png"
+  },
+  {
+   "id": "huts-dippers-nacho-cheese-saucehdnc",
+   "name": "Hut's Dippers Nacho Cheese",
+   "description": "Crispy dippers served with a creamy and flavorful nacho cheese dip.",
+   "price": 1.5,
+   "category": "sides",
+   "subcategory": "Hut Dipper",
+   "image": "img/products/huts-dippers-nacho-cheese-saucehdnc.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/CzftkoWOI-Cheese-Dip-_-1_1.png"
+  },
+  {
+   "id": "huts-dipper-ghost-pepper-saucehdgp",
+   "name": "Hut's Dipper Ghost Pepper",
+   "description": "Dare to go extreme? Ghost Pepper Sauce brings intense heat and smoky flavor that will challenge your taste buds",
+   "price": 1.5,
+   "category": "sides",
+   "subcategory": "Hut Dipper",
+   "image": "img/products/huts-dipper-ghost-pepper-saucehdgp.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/BtZCa3L9I-BBQ-Dip-_-1_1.png"
+  },
+  {
+   "id": "huts-dippers-lemongrass-chili-saucehdlc",
+   "name": "Hut's Dippers Lemongrass Chili",
+   "description": "Fragrant lemongrass combined with fiery chili creates a unique, aromatic dip that’s both spicy and refreshing",
+   "price": 1.5,
+   "category": "sides",
+   "subcategory": "Hut Dipper",
+   "image": "img/products/huts-dippers-lemongrass-chili-saucehdlc.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Qf6txtPXI-Orange-Dip-_-1_1.png"
+  },
+  {
+   "id": "huts-signature-sauce-sauceht",
+   "name": "Hut's Signature Sauce",
+   "description": "Creamy, bold, and irresistibly spicy, with a flavourful blend of thyme, paprika, and chilli.",
+   "price": 1.5,
+   "category": "sides",
+   "subcategory": "Hut Dipper",
+   "image": "img/products/huts-signature-sauce-sauceht.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/r3SVmaX0t-signature_hutsauce.png"
+  },
+  {
+   "id": "coke-regbvta1",
+   "name": "Coke",
+   "description": "",
+   "price": 4.99,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/coke-regbvta1.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/PGbKA1kP--desktop_thumbnail_8febad1d-dbd2-4992-bf3c-b192317fd757.png"
+  },
+  {
+   "id": "fanta-strawberry-regbvta4",
+   "name": "Fanta Strawberry",
+   "description": "",
+   "price": 4.99,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/fanta-strawberry-regbvta4.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/-rttPpprW-desktop_thumbnail_8df305ea-9b86-4003-b14e-eb99dfdb259f.png"
+  },
+  {
+   "id": "lemonade-regbv6",
+   "name": "Lemonade",
+   "description": "",
+   "price": 4.99,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/lemonade-regbv6.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/c0LXlTtzs-lemonade.png"
+  },
+  {
+   "id": "peach-tea-regbv5",
+   "name": "Peach Tea",
+   "description": "",
+   "price": 4.99,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/peach-tea-regbv5.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/TBLqqpgj0-icedtea.png"
+  },
+  {
+   "id": "sprite-regbvta3",
+   "name": "Sprite",
+   "description": "",
+   "price": 4.99,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/sprite-regbvta3.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/wTtbIMPSZ-desktop_thumbnail_cde21d13-a64b-456a-8100-4fafeda7acae.png"
+  },
+  {
+   "id": "coke-zero-canbvta2",
+   "name": "Coke Zero",
+   "description": "",
+   "price": 5.59,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/coke-zero-canbvta2.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/Xw11GTsRj-desktop_thumbnail_177e382d-0010-4b6d-ab60-4feb7288cb56.png"
+  },
+  {
+   "id": "red-bull-redbull",
+   "name": "Red Bull",
+   "description": "",
+   "price": 9.99,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/red-bull-redbull.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/4QUHwHVNf-desktop_thumbnail_e867ae4e-3419-45e0-a769-cd6ddce0a9ad.png"
+  },
+  {
+   "id": "fuze-lemon-tea-canbvta5",
+   "name": "Fuze Lemon Tea",
+   "description": "",
+   "price": 5.59,
+   "category": "beverages",
+   "subcategory": "Beverages",
+   "image": "img/products/fuze-lemon-tea-canbvta5.jpg",
+   "appOnly": false,
+   "pizzaTier": null,
+   "imageUrl": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/WL3pcwMxf-Gemini_Generated_Image_bwb0hkbwb0hkbwb0-(1).png"
+  }
+ ],
+ "deals": [
+  {
+   "id": "my-box-fanta-combo-myboxfanta",
+   "name": "MyBox Fanta Combo",
+   "price": 16.99,
+   "image": "img/deals/my-box-fanta-combo-myboxfanta.jpg"
+  },
+  {
+   "id": "2nd-pizza-6-90-ltomerdeka5",
+   "name": "2nd Pizza @ 6.90",
+   "price": 42.89,
+   "image": "img/deals/2nd-pizza-6-90-ltomerdeka5.jpg"
+  },
+  {
+   "id": "mybox-bichi-mao-combo-bichimybsleeve",
+   "name": "Mybox Bichi Mao Combo",
+   "price": 19.99,
+   "image": "img/deals/mybox-bichi-mao-combo-bichimybsleeve.jpg"
+  },
+  {
+   "id": "2-pizzas-deal-rasa-malaysia-ltomerdeka6",
+   "name": "2 Pizzas Deal Rasa Malaysia",
+   "price": 36.89,
+   "image": "img/deals/2-pizzas-deal-rasa-malaysia-ltomerdeka6.jpg"
+  },
+  {
+   "id": "3-reg-pizzas-deal-regpzdeal2",
+   "name": "3 Reg Pizzas Deal",
+   "price": 39.99,
+   "image": "img/deals/3-reg-pizzas-deal-regpzdeal2.jpg"
+  },
+  {
+   "id": "mybox-melts-mybmeltsmon",
+   "name": "Mybox Melts",
+   "price": 13.99,
+   "image": "img/deals/mybox-melts-mybmeltsmon.jpg"
+  },
+  {
+   "id": "2-regular-pizzas-for-rm-22-appdeal3",
+   "name": "2 Regular Pizzas For RM22",
+   "price": 22.0,
+   "image": "img/deals/2-regular-pizzas-for-rm-22-appdeal3.jpg"
+  },
+  {
+   "id": "mybox-pasta-mybpastawed",
+   "name": "Mybox Pasta",
+   "price": 13.99,
+   "image": "img/deals/mybox-pasta-mybpastawed.jpg"
+  },
+  {
+   "id": "mybox-baked-rice-mybrice1thu",
+   "name": "Mybox Baked Rice",
+   "price": 13.99,
+   "image": "img/deals/mybox-baked-rice-mybrice1thu.jpg"
+  },
+  {
+   "id": "webox-4-app-clusive-appdeal6",
+   "name": "WEBOX 4 APP-CLUSIVE",
+   "price": 50.99,
+   "image": "img/deals/webox-4-app-clusive-appdeal6.jpg"
+  }
+ ],
+ "pizzaOptions": {
+  "tiers": {
+   "favourite": {
+    "sizes": [
+     {
+      "id": "PER",
+      "name": "Personal",
+      "add": 0
+     },
+     {
+      "id": "REG",
+      "name": "Regular",
+      "add": 21.4
+     },
+     {
+      "id": "LAR",
+      "name": "Large",
+      "add": 33.4
+     }
+    ],
+    "source": "chicken-pepperoni-cp, smoky-chicken-fc"
+   },
+   "supreme": {
+    "sizes": [
+     {
+      "id": "PER",
+      "name": "Personal",
+      "add": 0
+     },
+     {
+      "id": "REG",
+      "name": "Regular",
+      "add": 22.4
+     },
+     {
+      "id": "LAR",
+      "name": "Large",
+      "add": 35.4
+     }
+    ],
+    "source": "super-supreme-q2, huts-signature-meat-mania-hs2"
+   },
+   "rasa": {
+    "sizes": [
+     {
+      "id": "PER",
+      "name": "Personal",
+      "add": 0
+     },
+     {
+      "id": "REG",
+      "name": "Regular",
+      "add": 24.4
+     }
+    ],
+    "source": "laksa-kari-pizza-lt9"
+   }
+  },
+  "crusts": {
+   "PER": [
+    {
+     "id": "PAN",
+     "name": "Pan",
+     "add": 0
+    },
+    {
+     "id": "HTS",
+     "name": "Hand Tossed Sourdough",
+     "add": 0
+    },
+    {
+     "id": "HST",
+     "name": "Hand Stretched",
+     "add": 0
+    },
+    {
+     "id": "CC",
+     "name": "Crispy Crust",
+     "add": 0
+    },
+    {
+     "id": "CHC",
+     "name": "Cheesy Crust",
+     "add": 2.09
+    },
+    {
+     "id": "STF",
+     "name": "Stuffed Crust",
+     "add": 3.59
+    }
+   ],
+   "REG": [
+    {
+     "id": "PAN",
+     "name": "Pan",
+     "add": 0
+    },
+    {
+     "id": "HTS",
+     "name": "Hand Tossed Sourdough",
+     "add": 0
+    },
+    {
+     "id": "CTC",
+     "name": "Crackin Thin",
+     "add": 0
+    },
+    {
+     "id": "HST",
+     "name": "Hand Stretched",
+     "add": 0
+    },
+    {
+     "id": "CC",
+     "name": "Crispy Crust",
+     "add": 0
+    },
+    {
+     "id": "CHC",
+     "name": "Cheesy Crust",
+     "add": 3.09
+    },
+    {
+     "id": "STF",
+     "name": "Stuffed Crust",
+     "add": 5.59
+    },
+    {
+     "id": "SCB",
+     "name": "Cheesy Bites",
+     "add": 5.59
+    }
+   ],
+   "LAR": [
+    {
+     "id": "PAN",
+     "name": "Pan",
+     "add": 0
+    },
+    {
+     "id": "HTS",
+     "name": "Hand Tossed Sourdough",
+     "add": 0
+    },
+    {
+     "id": "CTC",
+     "name": "Crackin Thin",
+     "add": 0
+    },
+    {
+     "id": "HST",
+     "name": "Hand Stretched",
+     "add": 0
+    },
+    {
+     "id": "CHC",
+     "name": "Cheesy Crust",
+     "add": 4.09
+    },
+    {
+     "id": "STF",
+     "name": "Stuffed Crust",
+     "add": 7.59
+    },
+    {
+     "id": "SCB",
+     "name": "Cheesy Bites",
+     "add": 7.59
+    }
+   ]
+  },
+  "toppings": {
+   "PER": [
+    {
+     "id": "MCH",
+     "name": "Mozzarella Cheese",
+     "add": 1.5
+    },
+    {
+     "id": "SMC",
+     "name": "Signature Melted Cheese",
+     "add": 1.99
+    }
+   ],
+   "REG": [
+    {
+     "id": "MCH",
+     "name": "Mozzarella Cheese",
+     "add": 2.5
+    },
+    {
+     "id": "CHT",
+     "name": "Cheddar Top",
+     "add": 2.5
+    },
+    {
+     "id": "SMC",
+     "name": "Signature Melted Cheese",
+     "add": 3.99
+    },
+    {
+     "id": "BFP",
+     "name": "Beef Pepperoni",
+     "add": 3.5
+    },
+    {
+     "id": "CAB",
+     "name": "Beef Cabanossi",
+     "add": 3.5
+    },
+    {
+     "id": "BGF",
+     "name": "Ground Beef",
+     "add": 3.5
+    },
+    {
+     "id": "CHL",
+     "name": "Chicken Loaf",
+     "add": 3.5
+    },
+    {
+     "id": "MUS",
+     "name": "Mushrooms",
+     "add": 3.5
+    },
+    {
+     "id": "CAP",
+     "name": "Capsicums",
+     "add": 3.5
+    },
+    {
+     "id": "ONI",
+     "name": "Onions",
+     "add": 3.5
+    },
+    {
+     "id": "OLI",
+     "name": "Olives",
+     "add": 3.5
+    },
+    {
+     "id": "PIN",
+     "name": "Pineapples",
+     "add": 3.5
+    }
+   ],
+   "LAR": [
+    {
+     "id": "MCH",
+     "name": "Mozzarella Cheese",
+     "add": 3.5
+    },
+    {
+     "id": "CHT",
+     "name": "Cheddar Top",
+     "add": 3.5
+    },
+    {
+     "id": "SMC",
+     "name": "Signature Melted Cheese",
+     "add": 4.99
+    },
+    {
+     "id": "BFP",
+     "name": "Beef Pepperoni",
+     "add": 5.0
+    },
+    {
+     "id": "CAB",
+     "name": "Beef Cabanossi",
+     "add": 5.0
+    },
+    {
+     "id": "BGF",
+     "name": "Ground Beef",
+     "add": 5.0
+    },
+    {
+     "id": "CHL",
+     "name": "Chicken Loaf",
+     "add": 5.0
+    },
+    {
+     "id": "MUS",
+     "name": "Mushrooms",
+     "add": 5.0
+    },
+    {
+     "id": "CAP",
+     "name": "Capsicums",
+     "add": 5.0
+    },
+    {
+     "id": "ONI",
+     "name": "Onions",
+     "add": 5.0
+    },
+    {
+     "id": "OLI",
+     "name": "Olives",
+     "add": 5.0
+    },
+    {
+     "id": "PIN",
+     "name": "Pineapples",
+     "add": 5.0
+    }
+   ]
+  },
+  "maxToppings": 2
+ },
+ "stores": [
+  {
+   "id": "PH-7521864009",
+   "name": "Pizza Hut Dataran Sunway",
+   "area": "Petaling Jaya",
+   "address": "7-1, Ground & First Floors, Jalan PJU 5/6, Dataran Sunway, Petaling Jaya, 47810",
+   "lat": 3.153163,
+   "lng": 101.594775,
+   "osm": "https://www.openstreetmap.org/node/7521864009"
+  },
+  {
+   "id": "PH-5411582127",
+   "name": "Pizza Hut J Seri Mas",
+   "area": "",
+   "address": "1-1, J Seri Mas, 41100",
+   "lat": 3.098346,
+   "lng": 101.800335,
+   "osm": "https://www.openstreetmap.org/node/5411582127"
+  },
+  {
+   "id": "PH-7653640460",
+   "name": "Pizza Hut Jalan 14/48A",
+   "area": "Kuala Lumpur",
+   "address": "Jalan 14/48A, Kuala Lumpur, 51000",
+   "lat": 3.185408,
+   "lng": 101.692078,
+   "osm": "https://www.openstreetmap.org/node/7653640460"
+  },
+  {
+   "id": "PH-1524590053",
+   "name": "Pizza Hut Jalan 52/4",
+   "area": "Petaling Jaya",
+   "address": "Jalan 52/4, Petaling Jaya",
+   "lat": 3.099092,
+   "lng": 101.646574,
+   "osm": "https://www.openstreetmap.org/node/1524590053"
+  },
+  {
+   "id": "PH-1583572727",
+   "name": "Pizza Hut Jalan 8/27",
+   "area": "Wangsa Maju",
+   "address": "Lot PT 6878, Jalan 8/27, Wangsa Maju, 53300",
+   "lat": 3.197396,
+   "lng": 101.743991,
+   "osm": "https://www.openstreetmap.org/node/1583572727"
+  },
+  {
+   "id": "PH-4758393839",
+   "name": "Pizza Hut Jalan 8/35",
+   "area": "Bandar Baru Bangi",
+   "address": "Jalan 8/35, Bandar Baru Bangi",
+   "lat": 2.963825,
+   "lng": 101.76344,
+   "osm": "https://www.openstreetmap.org/node/4758393839"
+  },
+  {
+   "id": "PH-2395730871",
+   "name": "Pizza Hut Jalan Bangsar",
+   "area": "",
+   "address": "23, Jalan Bangsar, 59000",
+   "lat": 3.12889,
+   "lng": 101.679842,
+   "osm": "https://www.openstreetmap.org/node/2395730871"
+  },
+  {
+   "id": "PH-2822073280",
+   "name": "Pizza Hut Jalan Equine",
+   "area": "Seri Kembangan",
+   "address": "LG11, Jalan Equine, Seri Kembangan, 43300",
+   "lat": 2.995126,
+   "lng": 101.675047,
+   "osm": "https://www.openstreetmap.org/node/2822073280"
+  },
+  {
+   "id": "PH-7213795039",
+   "name": "Pizza Hut Jalan Ipoh",
+   "area": "Kuala Lumpur",
+   "address": "Jalan Ipoh, Kuala Lumpur, 51200",
+   "lat": 3.188716,
+   "lng": 101.6809,
+   "osm": "https://www.openstreetmap.org/node/7213795039"
+  },
+  {
+   "id": "PH-4705755141",
+   "name": "Pizza Hut Jalan Kuchai Lama",
+   "area": "Kuala Lumpur",
+   "address": "Jalan Kuchai Lama, Kuala Lumpur",
+   "lat": 3.092263,
+   "lng": 101.686056,
+   "osm": "https://www.openstreetmap.org/node/4705755141"
+  },
+  {
+   "id": "PH-4964906089",
+   "name": "Pizza Hut Jalan Metro Wangsa",
+   "area": "Kuala Lumpur",
+   "address": "Jalan Metro Wangsa, Kuala Lumpur",
+   "lat": 3.204745,
+   "lng": 101.736339,
+   "osm": "https://www.openstreetmap.org/node/4964906089"
+  },
+  {
+   "id": "PH-10883802073",
+   "name": "Pizza Hut Jalan Pahang",
+   "area": "",
+   "address": "136, Jalan Pahang",
+   "lat": 3.17274,
+   "lng": 101.698898,
+   "osm": "https://www.openstreetmap.org/node/10883802073"
+  },
+  {
+   "id": "PH-4261049190",
+   "name": "Pizza Hut Jalan Semenyih",
+   "area": "Kajang",
+   "address": "Jalan Semenyih, Kajang",
+   "lat": 2.991308,
+   "lng": 101.795025,
+   "osm": "https://www.openstreetmap.org/node/4261049190"
+  },
+  {
+   "id": "PH-11363832343",
+   "name": "Pizza Hut Jalan Taman Setiawangsa",
+   "area": "Setiawangsa",
+   "address": "Lot G55, AEON AU2, Jalan Taman Setiawangsa, Setiawangsa, 54200",
+   "lat": 3.176786,
+   "lng": 101.749945,
+   "osm": "https://www.openstreetmap.org/node/11363832343"
+  },
+  {
+   "id": "PH-11012984396",
+   "name": "Pizza Hut Jalan Utara",
+   "area": "Petaling Jaya",
+   "address": "Level 7, Tower 1, Jalan Utara, Petaling Jaya, 46200",
+   "lat": 3.107252,
+   "lng": 101.640059,
+   "osm": "https://www.openstreetmap.org/node/11012984396"
+  },
+  {
+   "id": "PH-27697574",
+   "name": "Pizza Hut Jalan Wan Kadir 2",
+   "area": "",
+   "address": "45, Jalan Wan Kadir 2",
+   "lat": 3.138994,
+   "lng": 101.628043,
+   "osm": "https://www.openstreetmap.org/way/27697574"
+  },
+  {
+   "id": "PH-1730777043",
+   "name": "Pizza Hut Sri Dsara",
+   "area": "",
+   "address": "Sri Dsara",
+   "lat": 3.188957,
+   "lng": 101.60526,
+   "osm": "https://www.openstreetmap.org/node/1730777043"
+  },
+  {
+   "id": "PH-277745476",
+   "name": "Pizza Hut Taman Lestari Perdana",
+   "area": "Seri Kembangan",
+   "address": "59, Jalan LP 1a/2, Seri Kembangan, 43300",
+   "lat": 2.993304,
+   "lng": 101.673506,
+   "osm": "https://www.openstreetmap.org/way/277745476"
+  }
+ ]
+}

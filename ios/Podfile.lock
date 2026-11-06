@@ -1,0 +1,40 @@
+PODS:
+  - CleverTap-Geofence-SDK (1.0.7):
+    - CleverTap-iOS-SDK (>= 3.9)
+  - CleverTap-iOS-SDK (7.8.2):
+    - SDWebImage (~> 5.11)
+  - CleverTapLocation (6.2.1)
+  - CTNotificationContent (1.6.0):
+    - SDWebImage (~> 5.11)
+  - CTNotificationService (0.1.7)
+  - SDWebImage (5.21.7):
+    - SDWebImage/Core (= 5.21.7)
+  - SDWebImage/Core (5.21.7)
+
+DEPENDENCIES:
+  - CleverTap-Geofence-SDK
+  - CleverTap-iOS-SDK
+  - CleverTapLocation
+  - CTNotificationContent
+  - CTNotificationService
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CleverTap-Geofence-SDK
+    - CleverTap-iOS-SDK
+    - CleverTapLocation
+    - CTNotificationContent
+    - CTNotificationService
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  CleverTap-Geofence-SDK: 4e540f325716419b47891a8633b9ebfc4b9ffaf3
+  CleverTap-iOS-SDK: d4af1fd5c34e0e53a45b0b871b113a94f7bd7e03
+  CleverTapLocation: ab113277bcd75164e5bca7404b32314535004987
+  CTNotificationContent: 6a5265f6cf8b97f6da3bb5bc67f347f83dafa6bf
+  CTNotificationService: 3eceea27cf0e28a2e14267bb706013363eb620c6
+  SDWebImage: e9fc87c1aab89a8ab1bbd74eba378c6f53be8abf
+
+PODFILE CHECKSUM: 3292c8008876f276538c69dfaba63c7c413e26b4
+
+COCOAPODS: 1.16.2

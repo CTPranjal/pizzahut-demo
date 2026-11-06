@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "notes": "Pairings use real product IDs from ios/assets-source/data/catalog.json. Rationale per list: docs/RECS.md.",
+  "pizzaSubcategories": {
+    "Favourite Pizza": [
+      "garlic-bread-gab",
+      "cream-of-mushroom-soup-sop",
+      "huts-cheesy-lava-triple-cheese-bites-clav1",
+      "krispy-wings-original-kwt1",
+      "huts-lava-chocolate-cake-lav2",
+      "coke-regbvta1",
+      "sprite-regbvta3"
+    ],
+    "Fun 5 Pizza": [
+      "krispy-fries-crispy",
+      "huts-poppers-hash-bites-hashbt",
+      "huts-dippers-nacho-cheese-saucehdnc",
+      "huts-moist-chocolate-cake-chomoist",
+      "fanta-strawberry-regbvta4",
+      "coke-regbvta1"
+    ],
+    "Supreme Pizza": [
+      "garlic-bread-gab",
+      "cream-of-mushroom-soup-sop",
+      "krispy-wings-bbq-kwt2",
+      "huts-poppers-cheezy-chepopt",
+      "huts-lava-chocolate-cake-lav2",
+      "coke-regbvta1",
+      "coke-zero-canbvta2"
+    ],
+    "Hut's Signature": [
+      "krispy-prawn-prwn1",
+      "huts-cheesy-lava-chicken-pepperoni-bites-clav3",
+      "garlic-bread-gab",
+      "huts-signature-sauce-sauceht",
+      "huts-lava-chocolate-cake-lav2",
+      "coke-regbvta1"
+    ],
+    "Rasa Malaysia Pizza": [
+      "laksa-kari-melts-m25",
+      "durian-melts-m26",
+      "laksa-kari-pasta-paslaksa",
+      "huts-dippers-lemongrass-chili-saucehdlc",
+      "peach-tea-regbv5",
+      "coke-regbvta1"
+    ]
+  },
+  "categories": {
+    "limited-time-offers": [
+      "garlic-bread-gab",
+      "huts-cheesy-lava-triple-cheese-bites-clav1",
+      "huts-lava-chocolate-cake-lav2",
+      "coke-regbvta1"
+    ],
+    "group-combos": [
+      "krispy-wings-original-kwt1",
+      "garlic-bread-gab",
+      "huts-lava-chocolate-cake-lav2",
+      "huts-moist-chocolate-cake-chomoist",
+      "coke-zero-canbvta2"
+    ],
+    "personal-combos": [
+      "huts-lava-chocolate-cake-lav2",
+      "huts-cheesy-lava-triple-cheese-bites-clav1",
+      "huts-poppers-hash-bites-hashbt",
+      "peach-tea-regbv5"
+    ],
+    "pasta": [
+      "garlic-bread-gab",
+      "cream-of-mushroom-soup-sop",
+      "huts-lava-chocolate-cake-lav2",
+      "lemonade-regbv6"
+    ],
+    "rice": [
+      "cream-of-mushroom-soup-sop",
+      "krispy-fries-crispy",
+      "huts-moist-chocolate-cake-chomoist",
+      "fuze-lemon-tea-canbvta5"
+    ],
+    "melts": [
+      "krispy-fries-crispy",
+      "krispy-curly-fries-curlyfr",
+      "huts-dippers-nacho-cheese-saucehdnc",
+      "coke-regbvta1"
+    ],
+    "huts-sliders": [
+      "krispy-fries-crispy",
+      "huts-poppers-hash-bites-hashbt",
+      "huts-moist-chocolate-cake-chomoist",
+      "sprite-regbvta3"
+    ],
+    "wingstreet": [
+      "krispy-fries-crispy",
+      "garlic-bread-gab",
+      "huts-dipper-ghost-pepper-saucehdgp",
+      "coke-regbvta1"
+    ],
+    "sides": [
+      "huts-dippers-nacho-cheese-saucehdnc",
+      "huts-lava-chocolate-cake-lav2",
+      "coke-regbvta1",
+      "sprite-regbvta3"
+    ],
+    "beverages": [
+      "garlic-bread-gab",
+      "krispy-fries-crispy",
+      "huts-cheesy-lava-triple-cheese-bites-clav1",
+      "huts-lava-chocolate-cake-lav2"
+    ]
+  }
+}

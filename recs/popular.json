@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "label": "Popular right now",
+  "notes": "Curated cold-start list, not sales data. Rationale per item: docs/RECS.md.",
+  "productIds": [
+    "my-box-fanta-combo-myboxfanta",
+    "2-regular-pizzas-for-rm-22-appdeal3",
+    "2nd-pizza-6-90-ltomerdeka5",
+    "super-supreme-q2",
+    "chicken-pepperoni-cp",
+    "laksa-kari-pizza-lt9",
+    "garlic-bread-gab",
+    "huts-cheesy-lava-triple-cheese-bites-clav1"
+  ]
+}

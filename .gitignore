@@ -1,0 +1,11 @@
+# Secrets (demo only, never commit)
+ios/pizzahutmy/Secrets.plist
+
+# Xcode / CocoaPods
+ios/Pods/
+ios/*.xcworkspace
+ios/*.xcodeproj
+ios/build/
+DerivedData/
+xcuserdata/
+.DS_Store
